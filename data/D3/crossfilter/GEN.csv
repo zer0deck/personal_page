@@ -1,0 +1,803 @@
+name,developer,ucs,user,sale,rating,platform,date
+Sonic the Hedgehog,Sonic Team,7.5,4.4,0.07,no,GEN,19910101
+Sonic the Hedgehog 2,Sonic Team,6.7,6.8,0.78,no,GEN,19920101
+Disney's Aladdin,Virgin Interactive,7.1,7.8,0.6,no,GEN,19930101
+Mortal Kombat,Probe Entertainment Limited,7.5,7.0,2.67,no,GEN,19930101
+Streets of Rage,Sega,5.1,7.4,2.6,no,GEN,19900101
+Mortal Kombat II (US & Others sales),Probe Entertainment Limited,8.7,8.0,2.39,no,GEN,19940101
+NBA Jam,Iguana Entertainment,7.0,7.8,2.05,no,GEN,19930101
+Sonic & Knuckles,Sonic Team,7.4,7.1,1.82,no,GEN,19940101
+Sonic the Hedgehog 3,Sonic Team,3.3,4.5,1.76,E,GEN,19940101
+Street Fighter II': Special Champion Edition,Capcom,8.3,9.2,5.66,no,GEN,19930101
+The Lion King,Westwood Studios,7.5,7.3,1.41,no,GEN,19940101
+Mortal Kombat 3,Sculptured Software,1.2,6.7,1.34,M,GEN,19950101
+NBA Jam Tournament Edition,Iguana Entertainment,8.3,9.3,1.11,E,GEN,19950101
+Virtua Racing,Sega-AM2,4.8,6.0,0.26,no,GEN,19940101
+Shining Force II,Camelot Software Planning,9.0,8.0,0.19,no,GEN,19940101
+Super Street Fighter II,Capcom,7.1,8.7,0.15,no,GEN,19940101
+"Lunar 2: Eternal Blue(sales, but wrong system)",Game Arts,9.7,8.9,0.14,no,GEN,19940101
+Gunstar Heroes,"Treasure Co., Ltd.",8.7,9.7,0.13,no,GEN,19930101
+Ecco the Dolphin,Novotrade International,1.5,7.8,0.12,no,GEN,19930101
+Yuu Yuu Hakusho: Makyo Toitsusen,"Treasure Co., Ltd.",8.7,9.2,0.08,no,GEN,19940101
+Dragon Slayer: Eiyuu Densetsu,Sega Falcom,3.4,10.0,0.08,no,GEN,19940101
+Dragon Slayer: The Legend of Heroes,Nihon Falcom Corporation,7.7,8.6,0.08,no,GEN,19940101
+Ecco: The Tides of Time,Novotrade International,5.4,9.7,0.07,no,GEN,19940101
+Street Fighter II': Special Champion Edition (JP weekly sales),Unknown,9.9,8.2,0.07,no,GEN,19930101
+Streets of Rage 3,Sega,8.2,7.6,0.07,no,GEN,19940101
+Dynamite Headdy,"Treasure Co., Ltd.",8.6,8.4,0.05,no,GEN,19940101
+Beyond Oasis,Ancient,7.8,8.5,0.05,E,GEN,19940101
+J-League Pro Striker 2,Sega,7.6,7.1,0.04,no,GEN,19940101
+Castlevania Bloodlines,Konami,4.9,8.4,0.04,no,GEN,19940101
+Mortal Kombat II (JP sales),Probe Entertainment Limited,8.1,5.4,0.03,no,GEN,19940101
+Puzzle & Action: Tant-R,Sega,7.8,9.3,0.03,no,GEN,19940101
+3 Ninjas Kick Back,Malibu Games,6.0,8.8,1.33,no,GEN,19940101
+3 Ninjas Kick Back / Hook,Unknown,3.6,7.6,2.52,no,GEN,19930101
+688 Attack Sub,John W. Ratcliff,7.3,5.8,1.66,no,GEN,19910101
+Aa Harimadana,Sega,1.2,8.2,2.11,no,GEN,19930101
+Aa Harimanada,Sega,4.0,8.9,3.89,no,GEN,19930101
+AAAHH!!! Real Monsters,Realtime Associates,1.5,8.4,3.19,E,GEN,19950101
+Action 52,Farsight Technologies,6.2,9.6,0.23,no,GEN,19930101
+Advanced Busterhawk Gley Lancer,NCS,8.8,7.5,2.64,no,GEN,19920101
+Advanced Daisenryaku: Deutsch Dengekisakusen,Sega,4.5,4.0,4.26,no,GEN,19910101
+Aero The Acro-Bat,Iguana Entertainment,7.8,4.7,0.07,no,GEN,19930101
+Aero The Acro-Bat 2,Iguana Entertainment,8.7,7.5,1.05,no,GEN,19940101
+Aerobiz,Koei,7.7,7.9,0.41,no,GEN,19920101
+Aerobiz Supersonic,Koei,6.1,8.9,5.4,E,GEN,19940101
+After Burner II,Sega-AM2,5.5,9.0,2.73,no,GEN,19900101
+Air Buster,Kaneko Co. Ltd,8.2,8.0,4.29,no,GEN,19910101
+Air Diver,Asmik Corporation of America,3.8,8.4,4.18,no,GEN,19900101
+Alex Kidd in the Enchanted Castle,Sega,4.8,8.3,0.94,no,GEN,19890101
+Alien 3,Probe Entertainment Limited,3.8,8.1,4.29,no,GEN,19920101
+Alien Soldier,"Treasure Co., Ltd.",4.8,6.3,1.0,no,GEN,19950101
+Alien Storm,Sega,3.1,3.8,2.12,no,GEN,19910101
+Alisia Dragoon,Game Arts / Gainax,2.5,7.8,0.81,no,GEN,19920101
+Altered Beast,Sega,2.5,5.1,0.18,no,GEN,19890101
+American Gladiators,Incredible Technologies,3.3,4.5,1.01,no,GEN,19920101
+Andre Agassi Tennis,TecMagik,8.2,7.7,0.61,no,GEN,19920101
+Animaniacs,Konami,0.7,4.7,5.33,no,GEN,19940101
+Arcade Classics,Al Baker and Associates,3.9,8.4,1.16,E,GEN,19960101
+Arch Rivals,Arc Developments,6.4,3.9,4.05,no,GEN,19920101
+Arcus Odyssey,Wolf Team,3.4,7.8,2.19,no,GEN,19910101
+Arnold Palmer Tournament Golf,Sega,7.7,8.6,0.38,no,GEN,19890101
+Arrow Flash,"Renovation Products, Inc.",5.0,9.5,2.23,no,GEN,19900101
+Art Alive,Sega,3.2,6.0,1.82,no,GEN,19910101
+Art of Fighting,SNK Corporation,6.5,6.0,1.21,no,GEN,19940101
+Asterix and the Great Rescue,Core Design Ltd.,9.2,8.6,3.35,no,GEN,19940101
+Asterix and the Power of the Gods,Core Design Ltd.,6.9,2.8,1.88,no,GEN,19950101
+Atomic Robo-Kid,Micronics,9.5,9.4,1.97,no,GEN,19900101
+Atomic Runner,Data East,0.5,5.2,0.0,no,GEN,19920101
+ATP Tour Championship Tennis,SIMS,7.4,0.1,0.07,E,GEN,19940101
+Australian Rugby League,Electronic Arts,3.3,6.6,0.58,no,GEN,19950101
+Awesome Possum Kicks Dr. Machino's Butt!,Tengen,2.0,7.2,1.39,no,GEN,19930101
+Aworg (MN),Sega,8.2,6.7,1.37,no,GEN,19910101
+Ayrton Senna's Super Monaco GP II,Sega,7.7,7.5,8.7,no,GEN,19920101
+B.O.B.,Chris Gray Enterprises,8.6,8.9,0.83,no,GEN,19930101
+Back to the Future Part III,Probe Entertainment Limited,5.6,7.8,4.22,no,GEN,19910101
+Bahamut Senki,Sega,5.1,8.5,0.44,no,GEN,19910101
+Ball Jacks,Namco,5.1,7.3,1.47,no,GEN,19930101
+Ballz 3D,PF.Magic,8.0,8.4,2.49,no,GEN,19940101
+Barbie Super Model,Tahoe Software,4.7,5.6,1.05,no,GEN,19920101
+Barbie Vacation Adventure,Software Creations,3.7,8.7,0.51,no,GEN,19940101
+Barkley: Shut Up and Jam 2,Accolade,5.6,8.6,0.87,E,GEN,19950101
+Barkley: Shut Up and Jam!,Accolade,7.0,9.2,7.76,no,GEN,19930101
+Barney's Hide and Seek,Realtime Associates,7.4,8.3,1.07,no,GEN,19930101
+Bass Masters Classic,Black Pearl,8.1,8.0,1.13,E,GEN,19950101
+Bass Masters Classic: Pro Edition,Black Pearl,6.9,5.4,1.7,E,GEN,19960101
+Batman,SunSoft,4.2,6.6,0.37,no,GEN,19900101
+Batman Forever,Probe Entertainment Limited,4.2,9.3,5.76,E,GEN,19950101
+Batman Returns,Konami,4.4,8.7,0.38,no,GEN,19920101
+Batman: Revenge of the Joker,SunSoft,1.1,4.1,1.39,no,GEN,19920101
+Battle Golfer Yui,Santos,9.3,5.7,3.16,no,GEN,19910101
+Battle Mania: Daiginjou,Vic Tokai,6.0,9.1,1.75,no,GEN,19930101
+Battle Master,Mirrorsoft,4.8,7.8,2.53,no,GEN,19910101
+Battle Squadron,"Innerprise Software, Inc.",8.2,5.8,4.83,no,GEN,19900101
+BattleTech: A Game of Armored Combat,Malibu Games,2.6,9.3,1.11,no,GEN,19940101
+Battletoads,Rare Ltd.,9.4,7.6,1.2,no,GEN,19910101
+Battletoads / Double Dragon,Rare Ltd.,4.4,4.4,0.89,no,GEN,19930101
+Beast Wrestler,Riot,9.6,6.0,0.21,no,GEN,19910101
+Beavis and Butt-head,Radical Entertainment,7.4,9.3,0.93,no,GEN,19940101
+Beethoven,THQ,2.5,7.7,2.93,no,GEN,19940101
+Beggar Prince,C&E Inc.,6.3,6.1,2.62,no,GEN,19960101
+Best of the Best: Championship Karate,Electro Brain,5.5,4.0,3.39,no,GEN,19930101
+Bible Adventures,Color Dreams,2.3,4.1,2.45,no,GEN,19950101
+Bill Walsh College Football,High Score Productions,7.4,8.9,5.23,no,GEN,19930101
+Bill Walsh College Football '95,High Score Productions,7.5,7.9,1.62,no,GEN,19940101
+Bimini Run,Nuvision Entertainment,7.9,9.0,0.53,no,GEN,19900101
+Bio-Hazard Battle,Sega,2.2,7.8,0.81,no,GEN,19920101
+Bishoujo Senshi Sailor Moon,Angel Studios,6.8,9.1,3.23,no,GEN,19940101
+Blades of Vengeance,Beam Software,9.0,8.7,0.73,no,GEN,19930101
+Blaster Master 2,Software Creations,5.4,4.6,0.45,no,GEN,19930101
+Block Out,California Dreams,4.7,7.4,1.44,no,GEN,19910101
+Blockbuster World Video Game Championship II,Various,9.7,7.0,0.48,no,GEN,19950101
+Blockout,P.Z.Karen Co. Development Group,3.0,7.9,4.3,no,GEN,19890101
+Bloodshot,Domark,7.9,8.5,0.83,no,GEN,19940101
+Blue Almanac,Hot B,1.8,6.9,3.15,no,GEN,20200101
+Body Count,Probe Entertainment Limited,8.2,2.0,1.03,no,GEN,19940101
+Bonanza Brothers,Sega,6.6,8.6,5.02,no,GEN,19910101
+Boogerman: A Pick and Flick Adventure,Interplay,7.6,9.6,0.5,no,GEN,19940101
+Boxing Legends of the Ring,Sculptured Software,5.8,5.2,1.39,no,GEN,19930101
+Bram Stoker's Dracula,Traveller's Tales,8.1,7.0,0.71,no,GEN,19930101
+Brett Hull Hockey,Radical Entertainment,8.3,9.3,1.54,no,GEN,20200101
+Brett Hull Hockey 95,Radical Entertainment,8.1,8.7,1.37,E,GEN,19940101
+Brian Lara Cricket,Audiogenic Ltd.,7.8,7.9,1.55,no,GEN,19950101
+Brian Lara Cricket 96,Audiogenic Ltd.,4.2,8.8,0.1,no,GEN,19960101
+Brutal: Paws of Fury,"Imagitec Design, Inc.",1.0,6.9,0.04,no,GEN,19940101
+Bubba 'n' Stix,Core Design Ltd.,4.7,7.3,0.22,no,GEN,19930101
+Bubble and Squeak,Audiogenic Ltd.,5.7,8.6,4.27,no,GEN,19940101
+Bubsy II,Accolade,8.3,8.4,0.27,no,GEN,19940101
+Bubsy in: Claws Encounters of the Furred Kind,Accolade,7.6,7.2,3.8,no,GEN,19930101
+Buck Rogers: Countdown to Doomsday,SSI,3.0,5.6,4.32,no,GEN,19910101
+Budokan: The Martial Spirit,Electronic Arts,6.5,9.1,0.6,no,GEN,19900101
+Bugs Bunny in Double Trouble,Atod AB,9.2,8.6,0.36,E,GEN,19960101
+Bulls versus Blazers and the NBA Playoffs,Electronic Arts,7.6,8.9,2.31,no,GEN,19930101
+Bulls vs Lakers and the NBA Playoffs,Capcom,8.3,7.4,0.62,no,GEN,19920101
+Burning Force,Namco,1.5,5.9,1.89,no,GEN,19900101
+Cadash,Taito Corporation,5.0,7.9,0.7,no,GEN,19920101
+Caesars Palace,Illusions Gaming Company,8.6,2.8,3.23,E,GEN,19930101
+Cal Ripken Jr. Baseball,Mindscape,7.7,5.9,1.76,no,GEN,19920101
+Caliber .50,Visco,4.3,6.7,5.75,no,GEN,19910101
+California Games,Novotrade International,8.4,6.4,1.88,no,GEN,19910101
+Cannon Fodder,Panelcomp,6.6,6.3,9.61,no,GEN,19940101
+Captain America and the Avengers,OperaHouse,6.5,8.6,0.58,no,GEN,19920101
+Captain Planet and the Planeteers,NovaLogic,5.3,9.5,1.61,no,GEN,19930101
+Castle of Illusion Starring Mickey Mouse,Sega (AM7),3.6,8.8,4.73,no,GEN,19900101
+Centurion: Defender of Rome,Bits of Magic,7.1,9.8,1.72,no,GEN,19910101
+Chakan,Sega,6.0,7.7,7.06,no,GEN,19920101
+Champions World Class Soccer,Park Place Productions,9.0,3.8,1.34,no,GEN,19930101
+Championship Bowling,Visco,4.5,9.7,1.19,no,GEN,19930101
+Championship Pool,Bitmasters,9.0,5.6,1.26,no,GEN,19930101
+Championship Pro-Am,Rare Ltd.,7.7,8.3,7.47,no,GEN,19920101
+Chase H.Q. II,Taito Corporation,6.8,7.9,1.88,no,GEN,19920101
+Chavez II,Sculptured Software,2.8,9.4,0.57,no,GEN,19930101
+Cheese Cat-Astrophe Starring Speedy Gonzales,Time Warner Interactive,4.9,8.5,6.45,no,GEN,19950101
+Chester Cheetah: Too Cool to Fool,Kaneko,7.4,6.7,1.0,no,GEN,19920101
+Chester Cheetah: Wild Wild Quest,Kaneko,6.9,6.8,0.36,no,GEN,19920101
+Chi Chi's Pro Challenge Golf,Coconuts Japan,8.0,9.0,0.28,no,GEN,19930101
+Chibi Maruko-Chan: Waku Waku Shopping,Namco,3.1,9.2,0.17,no,GEN,19920101
+Chiki Chiki Boys,Capcom,8.6,0.1,1.6,no,GEN,19930101
+Choukyuukai Miracle Nine,Sega,4.0,7.0,0.35,no,GEN,19950101
+Chuck Rock,Core Design,7.1,7.0,1.71,no,GEN,19920101
+Chuck Rock II: Son of Chuck,Core Design Ltd.,8.7,5.1,4.01,no,GEN,19930101
+Classic Collection,Sega,5.0,4.6,0.57,no,GEN,19940101
+ClayFighter,Visual Concepts,0.0,5.5,0.77,no,GEN,19940101
+Cliffhanger,Malibu Games,4.7,5.6,0.05,no,GEN,19930101
+Clue,Sculptured Software,7.7,2.5,0.61,no,GEN,19920101
+Coach K College Basketball,EA Canada,5.3,8.5,4.16,E,GEN,19950101
+College Football USA 96,High Score Productions,3.9,8.3,0.31,E,GEN,19950101
+College Football USA 97,EA Tiburon,4.7,8.5,2.27,E,GEN,19960101
+College Football's National Championship,Bluesky Innovations,6.9,6.5,0.01,no,GEN,19940101
+College Football's National Championship II,Bluesky Innovations,3.1,8.5,1.44,E,GEN,19950101
+College Slam,Iguana Entertainment,8.8,8.3,5.4,E,GEN,19960101
+Columns,Sega,7.6,5.3,0.84,E,GEN,19900101
+Columns III,Vic Tokai,7.7,4.9,1.95,no,GEN,19930101
+Combat Cars,Accolade,1.2,5.0,0.47,no,GEN,19940101
+Comix Zone,Sega,8.1,8.3,0.07,E,GEN,19950101
+Contra: Hard Corps,Konami,8.2,9.5,0.32,no,GEN,19940101
+Cool Spot,Virgin Interactive,8.3,7.3,2.07,no,GEN,19940101
+Cosmic Spacehead,Codemasters,2.9,2.6,3.73,no,GEN,19930101
+Crack Down,Sega,2.0,8.2,0.47,no,GEN,19910101
+Crayon Shin-Chan: Arashi o Yobu Enji,Ma-Ba,7.4,9.0,0.71,no,GEN,19940101
+CrossFire,AI,6.0,4.6,0.91,no,GEN,19910101
+Crue Ball,NuFX,8.0,8.6,2.41,no,GEN,19920101
+Crusader of Centy,Nextech,9.0,5.5,0.31,E,GEN,19940101
+Crystal's Pony Tale,Artech Studios,0.8,9.6,0.22,no,GEN,19940101
+Curse,Micronet,4.9,5.9,0.83,no,GEN,19890101
+Cutie Suzuki no Ringside Angel,Copya System Ltd.,6.9,7.9,0.05,no,GEN,19900101
+Cutthroat Island,Software Creations,8.5,6.2,1.3,E,GEN,19950101
+Cyber-Cop,Core Design Ltd.,5.1,6.9,3.32,no,GEN,19920101
+Cyberball,Tengen,9.2,5.2,1.87,no,GEN,19900101
+Cyborg Justice,Novotrade,8.3,2.9,0.26,no,GEN,19930101
+Daffy Duck in Hollywood,Probe Entertainment Limited,8.6,7.6,2.77,no,GEN,19940101
+Dahna: Megami Tanja,IGS,6.6,9.5,0.04,no,GEN,19910101
+Dangerous Seed,Namco,5.3,7.5,1.41,no,GEN,19900101
+Dark Castle,Artech Studios,8.5,8.3,0.71,no,GEN,19910101
+Darwin 4081,Sega,3.6,2.7,0.13,no,GEN,19900101
+Dashin' Desperados,Data East,5.3,8.1,2.58,no,GEN,19930101
+David Crane's Amazing Tennis,Absolute Entertainment,8.2,6.2,1.42,no,GEN,19920101
+David Robinson's Supreme Court,Sega,8.0,6.1,0.03,no,GEN,19920101
+Davis Cup Tennis,Loriciels,3.6,8.2,0.5,no,GEN,19930101
+Daze Before Christmas,Funcom,8.3,7.0,5.24,no,GEN,19940101
+Deadly Moves,Kaneko,6.9,9.6,0.4,no,GEN,19920101
+Death Duel,Razorsoft,5.2,0.6,4.8,no,GEN,19920101
+Decap Attack,Vic Tokai,7.4,7.7,0.54,no,GEN,19910101
+Demolition Man,Alexandria,9.0,6.2,1.47,E,GEN,19950101
+Desert Demolition starring Road Runner and Wile E. Coyote,Bluesky Innovations,7.5,9.9,6.0,E,GEN,19940101
+Desert Strike: Return to the Gulf,Visual Concepts,6.7,4.6,1.77,no,GEN,19940101
+Devil's Course,Tikipod,8.8,7.6,1.65,no,GEN,19940101
+Devilish: The Next Possession,Aisystem Tokyo,8.1,9.5,1.89,no,GEN,19920101
+Dick Tracy,Sega,1.5,8.9,2.94,no,GEN,19900101
+Dick Vitale's Awesome Baby! College Hoops,Time Warner Interactive,6.7,6.2,9.25,no,GEN,19940101
+Dino Dini's Soccer,Dini and Dini Productions,4.7,5.3,2.03,no,GEN,19940101
+Dino Land,Wolf Team,6.4,4.6,2.27,no,GEN,19910101
+Dinosaurs for Hire,Malibu Games,9.5,9.8,2.72,no,GEN,19930101
+Disney's Beauty and the Beast: Belle's Quest,Software Creations,9.1,4.2,3.15,no,GEN,19930101
+Disney's Beauty and the Beast: Roar of the Beast,Software Creations,6.3,5.4,1.11,no,GEN,19930101
+Disney's Bonkers,Sega,0.3,8.8,3.31,E,GEN,19940101
+Disney's Pinocchio,Virgin Interactive,3.4,6.0,10.55,E,GEN,19960101
+Disney's Pocahontas,Funcom Oslo A/S,9.1,6.0,2.15,E,GEN,19960101
+Disney's TaleSpin,Sega,7.6,9.0,0.25,no,GEN,19920101
+Disney's The Jungle Book,Eurocom Entertainment Software,0.6,3.5,0.7,no,GEN,19940101
+Disney's Ariel: The Little Mermaid,Bluesky Innovations,7.6,2.8,0.07,no,GEN,19920101
+Divine Sealing,CYX,7.4,2.4,1.51,no,GEN,19910101
+DJ Boy,Kaneko,7.9,9.6,1.27,no,GEN,19900101
+DokiDoki Penguin Land (MN),Sega,4.5,1.2,2.31,no,GEN,19910101
+Donald in Maui Mallard,Eurocom Entertainment Software,1.9,3.5,0.47,no,GEN,19950101
+Doom Troopers,Adrenalin Entertainment,1.0,5.9,3.02,T,GEN,19950101
+Doraemon: Yume Dorobou to 7-Jin no Gozans,Sega,9.3,7.5,6.57,no,GEN,19930101
+Double Clutch,BGS Development,6.5,9.7,0.36,no,GEN,19920101
+Double Dragon,Software Creations,6.9,9.2,1.54,no,GEN,19930101
+Double Dragon 3: The Arcade Game,Software Creations,0.1,8.1,1.42,no,GEN,19920101
+Double Dragon II: The Revenge,Technos Japan Corporation,7.4,8.9,0.69,no,GEN,19910101
+Double Dragon V: The Shadow Falls,Leland Interactive Media,7.6,9.3,0.53,no,GEN,19940101
+Double Dribble: The Playoff Edition,Konami,6.5,9.6,0.55,no,GEN,19940101
+Double Pack: Joe Montana Football 3 / Double Clutch MD,Various,9.2,8.4,0.01,no,GEN,19960101
+Dr. Robotnik's Mean Bean Machine,Sega,7.5,6.6,0.52,no,GEN,19930101
+Dragon Ball Z,TOSE Software,5.2,8.9,0.4,no,GEN,19940101
+Dragon Slayer: Eiyuu Densetsu II,Sega,7.5,2.4,2.92,no,GEN,19950101
+Dragon's Fury,"TechnoSoft Co., Ltd.",6.5,9.6,1.37,no,GEN,19920101
+Dragon's Revenge,Tengen,5.7,6.8,0.16,no,GEN,19930101
+Dragon: The Bruce Lee Story,Virgin Interactive,4.8,6.8,0.06,T,GEN,19940101
+Duke Nukem 3D,3D Realms,4.2,9.6,1.85,no,GEN,19980101
+Dune: The Battle for Arrakis,Westwood Studios,7.6,9.9,4.0,no,GEN,19930101
+Dungeons & Dragons: Warriors of the Eternal Sun,Sega,4.3,3.1,0.14,no,GEN,19920101
+Dyna Brothers,CRI,2.3,8.4,2.05,no,GEN,19920101
+Dyna Brothers 2,CRI,8.0,9.9,3.72,no,GEN,19930101
+Dynamite Duke,Hertz,7.5,9.7,0.63,no,GEN,19900101
+EA Sports Double Header,Park Place Productions,7.9,8.3,2.82,no,GEN,19930101
+Earnest Evans,Wolf Team,8.2,3.1,3.06,no,GEN,19920101
+Earth Defense,AV Artisan,2.3,4.6,5.36,no,GEN,19950101
+Earthworm Jim,Shiny Entertainment,2.1,8.8,4.55,no,GEN,19940101
+Earthworm Jim 2,Shiny Entertainment,9.0,1.5,5.81,E,GEN,19960101
+Ecco Jr.,Novotrade International,4.0,9.6,5.8,E,GEN,19950101
+El Viento,Wolf Team,5.7,4.3,1.28,no,GEN,19910101
+Elemental Master,"TechnoSoft Co., Ltd.",8.9,5.2,3.41,no,GEN,19930101
+Eliminate Down,Aprinet,6.3,8.2,2.03,no,GEN,19930101
+Elitserien 95,High Score Productions,9.4,0.2,3.18,no,GEN,19940101
+Elitserien 96,High Score Productions,6.9,5.7,1.85,no,GEN,19950101
+ESPN Baseball Tonight,Park Place Productions,3.4,7.4,1.57,no,GEN,19950101
+ESPN National Hockey Night,Park Place Productions,5.4,5.3,3.71,no,GEN,19940101
+ESPN Speed World,Park Place Productions,9.2,9.4,0.19,no,GEN,19940101
+ESPN Sunday Night NFL,Ringler Studios,6.3,8.6,1.21,no,GEN,19940101
+ESWAT: City Under Siege,Sega,0.1,7.4,1.89,no,GEN,19900101
+Eternal Champions,Sega,7.3,8.7,1.82,no,GEN,19930101
+Evander 'Real Deal' Holyfield's Boxing,ACME Interactive,6.8,6.3,4.93,no,GEN,19920101
+Ex-Mutants,Malibu Games,6.1,8.5,0.9,no,GEN,19920101
+Exile,Nippon Telenet,7.6,9.2,0.44,no,GEN,19910101
+Exodus: Journey to the Promised Land,Wisdom Tree,0.5,7.4,0.42,no,GEN,19930101
+ExoSquad,Novotrade International,5.8,8.0,1.04,E,GEN,19950101
+F-117 Night Storm,Rare Ltd.,10.8,7.1,0.35,no,GEN,19930101
+F-15 Strike Eagle II,MicroProse,8.2,7.7,0.58,no,GEN,19930101
+F1 Circus MD,Micronics,2.1,3.1,2.31,no,GEN,19910101
+F1 World Championship Edition,Parkstar Software,4.8,8.1,1.2,no,GEN,19950101
+F22 Interceptor,Electronic Arts,6.2,8.5,1.14,no,GEN,19910101
+Family Feud,Eurocom Entertainment Software,4.1,5.7,0.5,no,GEN,19930101
+Fantasia,Infogrames,8.9,9.1,3.08,no,GEN,19910101
+Fantastic Dizzy,Codemasters,7.0,5.0,2.87,no,GEN,19930101
+Fastest 1,Human Entertainment,7.3,7.0,2.06,no,GEN,19910101
+Fatal Fury,SNK Corporation,9.1,8.9,2.8,no,GEN,19930101
+Fatal Fury 2,SNK Corporation,6.3,9.0,5.24,no,GEN,19940101
+Fatal Labyrinth,Sega Enterprises,4.0,9.4,7.4,no,GEN,19910101
+Fatal Rewind,Raising Hell,4.3,5.7,0.77,no,GEN,19910101
+Ferias Frustradas de Pica Pau,Tec Toy,7.3,9.2,2.06,no,GEN,19950101
+Ferrari Grand Prix Challenge,Aisystem Tokyo,0.6,6.1,1.73,no,GEN,19920101
+FIFA International Soccer,Extended Play Productions,5.4,6.4,1.49,no,GEN,19930101
+FIFA Soccer 95,Extended Play Productions,3.2,4.2,0.19,no,GEN,19940101
+FIFA Soccer 96,Extended Play Productions,5.2,2.9,0.37,E,GEN,19950101
+FIFA Soccer 97,Extended Play Productions,1.9,7.6,10.94,E,GEN,19960101
+FIFA: Road to World Cup 98,Extended Play Productions,5.7,8.9,1.7,no,GEN,19970101
+Fighting Masters,Almanic Corp.,3.6,7.2,1.66,no,GEN,19920101
+Final Zone,Wolf Team,3.0,3.9,0.13,no,GEN,19900101
+Fire Mustang,NMK,5.0,3.9,1.4,no,GEN,19910101
+Fire Shark,Toaplan,7.9,5.3,7.97,no,GEN,19900101
+Flashback: The Quest for Identity,Delphine Software International,4.9,9.0,4.08,no,GEN,19930101
+Flicky,Sega,6.7,4.3,2.91,no,GEN,19910101
+Foreman For Real,Software Creations,9.3,7.9,0.72,E,GEN,19950101
+Forgotten Worlds,Sega,1.9,8.4,0.4,no,GEN,19890101
+Frank Thomas Big Hurt Baseball,Iguana Entertainment,7.4,8.9,0.46,E,GEN,19950101
+Frogger,Morning Star Multimedia,6.5,9.5,1.42,E,GEN,19980101
+Fushigi no Umi no Nadia,Namco,3.6,3.6,1.83,no,GEN,19910101
+G-Loc Air Battle,Sega-AM2,8.7,5.3,3.13,no,GEN,19930101
+Gaiares,Telenet Japan,7.6,8.2,0.52,no,GEN,19900101
+Gain Ground,Sega,8.1,7.7,2.59,no,GEN,19910101
+Galahad,Traveller's Tales,7.4,8.0,8.18,no,GEN,19920101
+Galaxy Force II,CRI,4.6,8.4,0.35,no,GEN,19910101
+Garfield: Caught in the Act,Sega,7.2,0.8,0.17,E,GEN,19950101
+Gargoyles,Buena Vista Interactive,4.0,6.4,4.47,E,GEN,19950101
+Garry Kitchen's Super Battletank: War in the Gulf,Imagineering Inc.,3.7,9.3,5.76,no,GEN,19920101
+Gauntlet IV,M2,9.5,8.1,1.49,no,GEN,19930101
+Gemfire,Koei,8.6,6.5,0.05,no,GEN,19920101
+General Chaos,Game Refuge,6.9,5.0,0.55,no,GEN,19940101
+Generations Lost,Pacific Softscape,6.3,8.3,1.85,no,GEN,19940101
+Genesis 6-Pak,Sega,2.5,9.8,0.45,E,GEN,19950101
+Genghis Khan II: Clan of the Gray Wolf,Koei,9.5,9.1,1.84,no,GEN,19930101
+George Foreman's KO Boxing,Beam Software,8.2,8.3,0.56,no,GEN,19920101
+George Forman's KO Boxing,Probe Software,4.2,8.7,2.45,no,GEN,19920101
+Ghostbusters,Compile,8.1,9.4,1.35,no,GEN,19900101
+Ghostbusters (1986),Unknown,5.5,7.6,0.05,no,GEN,19900101
+Ghouls 'n Ghosts,AM8,4.8,9.2,2.35,no,GEN,19890101
+Gods,The Bitmap Brothers,2.9,8.0,4.22,no,GEN,19920101
+Golden Axe,Sega,5.8,6.9,6.05,no,GEN,19890101
+Golden Axe 3,Unknown,6.0,7.7,1.5,no,GEN,20090101
+Golden Axe II,Sega,2.1,-0.0,0.3,no,GEN,19910101
+Golden Axe III,Sega,8.4,6.5,0.64,no,GEN,19930101
+Gouketuji Ichizoku,Atlus Co.,9.2,1.1,4.32,no,GEN,19940101
+Granada,Wolf Team,5.1,7.1,0.28,no,GEN,19900101
+Greatest Heavyweights,ACME Interactive,6.0,9.4,1.63,no,GEN,19940101
+Greendog: The Beached Surfer Dude!,Interactive Designs,9.0,8.4,1.81,no,GEN,19920101
+Gunship,Probe Entertainment Limited,6.9,7.0,0.3,no,GEN,19930101
+Hard Drivin',Sterling Silver Software,6.0,9.9,0.16,no,GEN,19910101
+HardBall III,MindSpan,7.7,5.2,1.2,no,GEN,19930101
+Hardball!,"Accolade, Inc",3.8,6.3,2.54,no,GEN,19910101
+Harukanaru Augusta,Tikipod,9.6,7.9,4.12,no,GEN,19930101
+Haunting Starring Polterguy,Electronic Arts,1.6,5.7,2.48,no,GEN,19930101
+Head-On Soccer,U.S. Gold,5.4,7.7,0.74,E,GEN,19950101
+Heavy Unit,"Toho Co., Ltd",1.8,8.4,0.86,no,GEN,19900101
+Hellfire,Toaplan,7.9,9.8,0.27,no,GEN,19910101
+Herzog Zwei,"TechnoSoft Co., Ltd.",7.6,7.5,0.98,no,GEN,19900101
+High Seas Havoc,Data East,4.7,9.6,2.56,no,GEN,19930101
+Hit the Ice,Aisystem Tokyo,0.7,7.2,0.35,no,GEN,19920101
+Home Alone,"Brian A. Rice, Inc",7.7,5.5,4.1,no,GEN,19920101
+Home Alone 2: Lost in New York,Ocean,6.2,8.0,1.04,no,GEN,19930101
+Honoo no Doukyuuji: Dodge Danpei,Sega,6.9,9.8,4.06,no,GEN,19920101
+Hook,Core Design Ltd.,9.5,8.2,3.62,no,GEN,19920101
+Hurricanes,Arc Developments,5.8,8.6,1.61,no,GEN,19940101
+Indiana Jones and the Last Crusade,Tiertex Design Studios,0.0,4.8,0.01,no,GEN,19920101
+Insector X,Taito,7.4,6.4,0.42,no,GEN,19900101
+International Superstar Soccer Deluxe,Factor 5,8.9,4.4,3.2,no,GEN,19960101
+J-League Pro Striker,Sega,8.0,9.5,4.48,no,GEN,19930101
+J-League Pro Striker Kanzenban,Sega,6.2,1.6,1.2,no,GEN,19930101
+Jack Nicklaus' Power Challenge Golf,Unknown,6.0,5.3,2.9,no,GEN,19930101
+James 'Buster' Douglas Knockout Boxing,Taito Corporation,4.1,3.6,4.05,no,GEN,19900101
+James Bond 007: The Duel,The Kremlin,5.4,4.5,0.14,no,GEN,19930101
+James Pond 2: Codename RoboCod,Millennium Interactive,7.3,9.4,3.6,no,GEN,19930101
+James Pond 3: Operation Starfish,Millennium Interactive Ltd,7.4,7.6,2.83,no,GEN,19930101
+James Pond: Underwater Agent,Millennium Interactive,5.8,5.8,0.91,no,GEN,19910101
+Jammit,GTE Vantage Inc.,2.7,8.9,6.09,no,GEN,19940101
+Jennifer Capriati Tennis,System Sacom,4.7,9.9,1.44,no,GEN,19920101
+Jeopardy!,Park Place Productions,7.2,6.9,1.79,no,GEN,19920101
+Jeopardy! Deluxe Edition,Park Place Productions,7.0,7.3,0.06,no,GEN,19930101
+Jeopardy! Sports Edition,Park Place Productions,6.3,8.7,1.36,no,GEN,19930101
+Jerry Glanville's Pigskin Footbrawl,Developer Resources,9.2,7.4,1.05,no,GEN,19920101
+Jewel Master,Sega,8.6,9.7,2.35,no,GEN,19910101
+Joe & Mac,Eden Entertainment Software,2.4,9.1,3.47,no,GEN,19910101
+Joe Montana Football,Park Place Productions,6.5,5.9,2.78,no,GEN,19900101
+Joe Montana II: Sports Talk Football,BlueSky Software,5.1,3.5,0.91,no,GEN,19910101
+John Madden Football,Park Place Productions,6.9,9.8,2.6,no,GEN,19900101
+John Madden Football '92,Park Place Productions,7.1,9.4,2.4,no,GEN,19910101
+John Madden Football '93,Looking Glass Studios,7.5,6.1,0.25,no,GEN,19920101
+Jordan vs Bird,Electronic Arts,1.9,0.9,0.02,no,GEN,19920101
+Joshua & the Battle of Jericho,Wisdom Tree,8.7,7.9,8.92,no,GEN,19920101
+Judge Dredd,Probe Entertainment Limited,7.7,9.4,0.33,T,GEN,19950101
+Junction,Micronet,5.1,7.2,0.87,no,GEN,19900101
+Jungle Strike,High Score Productions,5.9,5.9,1.93,no,GEN,19930101
+Jurassic Park,Blue Sky Software,7.9,4.6,2.31,no,GEN,19930101
+Jurassic Park: Rampage Edition,Bluesky Innovations,5.5,7.7,1.53,no,GEN,19940101
+Justice League Task Force,SunSoft,5.9,6.9,1.99,E,GEN,19950101
+Kawasaki Superbike Challenge,Lankhor,8.1,0.1,0.52,E,GEN,19940101
+Kid Chameleon,Sega Technical Institute,4.8,8.8,6.93,no,GEN,19920101
+King of the Monsters,"SPS Co.,Ltd.",1.7,3.2,4.64,no,GEN,19930101
+King of the Monsters 2,SNK Corporation,5.6,9.6,0.82,no,GEN,19940101
+King Salmon,Sage's Creation,5.1,4.5,0.09,no,GEN,19930101
+King's Bounty,Unknown,3.6,6.5,1.08,no,GEN,19910101
+Klax,Tengen,0.6,5.6,2.59,no,GEN,19900101
+Knuckles Chaotix,Sega,6.5,9.7,2.09,no,GEN,20090101
+Krusty's Super Fun House,Audiogenic Software Ltd.,3.7,9.7,3.53,no,GEN,19930101
+Kyuukai Douchuuki,Namco,4.7,8.5,2.08,no,GEN,19910101
+La Russa Baseball 95,High Score Productions,2.0,7.6,1.29,no,GEN,19940101
+Lakers vs. Celtics and the NBA Playoffs,EA,6.9,8.9,4.46,no,GEN,19910101
+LandStalker,Climax Entertainment,7.1,8.8,2.91,no,GEN,19920101
+Langrisser II,Career Soft,6.5,7.6,1.1,no,GEN,19940101
+Last Action Hero,Bits Studios,8.1,6.9,1.48,no,GEN,19930101
+Last Battle,Sega,8.9,5.9,6.27,no,GEN,19890101
+Lemmings,DMA Design,4.2,5.7,3.17,no,GEN,19920101
+Lemmings 2: The Tribes,Digital Developments,8.9,9.7,0.34,no,GEN,19940101
+Lethal Enforcers,Konami,7.3,8.4,0.33,no,GEN,19930101
+Lethal Enforcers II: Gun Fighters,Konami,4.9,5.1,5.6,no,GEN,19940101
+LHX Attack Chopper,Electronic Arts,8.5,9.1,3.82,no,GEN,19930101
+Liberty or Death,Koei,5.8,8.4,0.12,no,GEN,19940101
+Light Crusader,"Treasure Co., Ltd.",9.8,6.5,5.01,E,GEN,19950101
+Lightening Force: Quest for the Darkstar,"TechnoSoft Co., Ltd.",4.7,5.4,2.32,no,GEN,19920101
+Lord Monarch: Tokoton Sentou Densetsu,Omiya Soft,2.3,6.2,4.93,no,GEN,19940101
+Lotus II,Gremlin Interactive,5.5,9.2,14.83,no,GEN,19930101
+Lotus Turbo Challenge,Gremlin Int.,3.7,7.5,2.13,no,GEN,19920101
+M-1 Abrams Battle Tank,Dynamix,1.6,6.6,0.77,no,GEN,19910101
+M.U.S.H.A. - Metallic Uniframe Super Hybrid Armor,Compile Ltd.,6.6,1.0,0.19,no,GEN,19900101
+Madden NFL '94,High Score Productions,9.6,9.5,2.6,no,GEN,19940101
+Madden NFL 95,High Score Productions,7.0,9.4,0.42,no,GEN,19940101
+Madden NFL 96,High Score Productions,7.8,5.7,1.32,E,GEN,19950101
+Madden NFL 97,High Score Productions,7.7,1.2,1.22,E,GEN,19970101
+Madden NFL 98,Tiertex Design Studios,5.3,9.2,0.59,E,GEN,19970101
+Madou Monogatari I,Compile,5.6,6.0,0.75,no,GEN,19960101
+Mahjong Cop Ryuu: Shiro Ookami no Yabou,Sega,7.9,8.9,2.93,no,GEN,19890101
+Man Overboard!,Zeppelin Games,1.0,7.6,0.63,no,GEN,19940101
+Marble Madness,Atari,0.2,6.9,0.02,no,GEN,19930101
+Mario Andretti Racing,Stormfront Studios,8.5,5.3,1.12,no,GEN,19940101
+Mario Lemieux Hockey,Alpine Studios,9.2,2.4,0.17,no,GEN,19910101
+Marko,The Kremlin,6.3,9.5,0.57,no,GEN,19940101
+Marsupilami,Sega,9.8,8.5,0.13,E,GEN,19950101
+Marvel Land,Namco,8.0,6.1,1.11,no,GEN,19910101
+Mary Shelley's Frankenstein,Bits Studios,4.2,7.3,0.16,no,GEN,19940101
+Master of Monsters,Opera House,5.7,9.0,0.48,no,GEN,19910101
+Master of Weapon,Taito Corporation,7.4,6.9,0.17,no,GEN,19910101
+Mazin Saga Mutant Fighter,Almanic Corp,4.7,7.3,1.98,no,GEN,19930101
+McDonald's Treasure Land Adventure,"Treasure Co., Ltd.",0.8,7.1,3.94,no,GEN,19930101
+Mega 6 Vol. 3,Sega,3.9,6.7,4.74,no,GEN,19950101
+Mega Bomberman,Hudson Soft,9.0,5.2,3.32,E,GEN,19940101
+Mega Games 1,Sega,8.2,7.2,0.29,no,GEN,19920101
+Mega Games 2,Sega,5.2,9.8,9.38,no,GEN,19930101
+Mega Games 3,Sega,5.3,8.5,3.27,no,GEN,19930101
+Mega Games 6,Sega,7.4,0.8,4.0,no,GEN,19950101
+Mega Games 6 Vol. 2,Sega,1.1,8.5,1.95,no,GEN,19950101
+Mega Man: The Wily Wars,Capcom,8.2,9.7,0.9,no,GEN,19940101
+Mega Panel,Namco,5.9,9.6,2.73,no,GEN,19900101
+Mega SWiV,Sales Curve Interactive,8.4,3.4,5.85,no,GEN,19940101
+Mega Turrican,Factor 5,2.6,7.5,0.02,no,GEN,19940101
+Mercs,Capcom,4.9,6.8,1.28,no,GEN,19910101
+Michael Jackson's Moonwalker,Ultimate Productions,8.7,6.2,0.3,no,GEN,19900101
+Mick & Mack as the Global Gladiators,Virgin Interactive,4.8,9.3,5.91,no,GEN,19920101
+Mickey Mania: The Timeless Adventures of Mickey Mouse,Traveller's Tales,7.9,8.1,2.14,no,GEN,19940101
+Mickey's Ultimate Challenge,Designer Software,1.2,8.7,0.8,no,GEN,19940101
+Micro Machines,Codemasters,6.6,2.7,1.48,no,GEN,19940101
+Micro Machines 2: Turbo Tournament,Codemasters,3.8,8.2,1.08,no,GEN,19940101
+Micro Machines Military,Supersonic Software,7.7,8.0,1.8,no,GEN,19960101
+Micro Machines Turbo Tournament 96,Supersonic Software,3.6,7.3,3.16,no,GEN,19950101
+Midnight Resistance,OperaHouse,4.5,9.4,4.98,no,GEN,19910101
+Might and Magic: Gates to Another World,New World Computing,8.2,5.7,5.88,no,GEN,19910101
+Mighty Morphin Power Rangers,Bandai,6.4,8.5,4.01,no,GEN,19940101
+Mighty Morphin Power Rangers: The Movie,SIMS,8.9,5.7,3.24,E,GEN,19950101
+Minnesota Fats: Pool Legend,Data East,2.0,5.7,1.04,E,GEN,19950101
+Monopoly,Sculptured Software,5.9,5.8,4.12,no,GEN,19920101
+Monster World IV,Westone Bit Entertainment,9.5,8.2,0.14,no,GEN,19940101
+Mr. Nutz,Ocean,7.0,8.9,2.59,no,GEN,19940101
+Ms. Pac Man,Midway/Namco,5.4,2.9,2.1,no,GEN,19910101
+Muhammad Ali Heavyweight Boxing,Park Place Productions,0.7,6.8,2.03,no,GEN,19920101
+Mutant League Football,Mutant Productions,3.4,7.0,3.48,no,GEN,19930101
+Mutant League Hockey,Electronic Arts,8.2,6.5,0.72,no,GEN,19940101
+Mystic Defender,Sega,8.4,9.2,0.23,no,GEN,19890101
+Mystical Fighter,KID,7.9,8.7,0.67,no,GEN,19920101
+NBA Action '95 starring David Robinson,Sega,5.3,9.5,0.81,E,GEN,19950101
+NBA All-Star Challenge,Beam Software,8.4,8.4,4.56,no,GEN,19920101
+NBA Live 95,Hitmen Productions,7.1,6.2,0.63,no,GEN,19940101
+NBA Live 96,Hitmen Productions,4.9,4.8,0.02,E,GEN,19950101
+NBA Live 97,NuFX,5.4,8.4,0.56,E,GEN,19960101
+NBA Live 98,NuFX,8.1,7.7,1.9,E,GEN,19970101
+NBA Showdown '94,EA Sports,0.8,9.6,0.58,no,GEN,19940101
+NCAA Football,Software Toolworks,7.6,5.5,1.6,E,GEN,19940101
+New Horizons,Koei,1.9,9.0,3.72,no,GEN,19940101
+NFL '95,FarSight Studios,6.7,8.9,0.16,E,GEN,19940101
+NFL Football '94 Starring Joe Montana,Blue Sky Software,1.1,8.3,0.3,no,GEN,19930101
+NFL Quarterback Club,Iguana Entertainment,9.1,9.0,1.92,E,GEN,19940101
+NFL Quarterback Club 96,Iguana Entertainment,9.4,7.0,2.01,E,GEN,19960101
+NFL Sports Talk Football '93 Starring Joe Montana,BlueSky Software,0.9,8.1,0.58,no,GEN,19920101
+NHL '94,EA Canada,0.3,8.1,0.14,no,GEN,19930101
+NHL 95,High Score Productions,9.0,6.3,5.7,no,GEN,19950101
+NHL 96,High Score Productions,9.9,3.8,0.12,E,GEN,19950101
+NHL 97,High Score Entertainment Software,4.8,8.9,0.05,E,GEN,19960101
+NHL 98,High Score Productions,8.1,8.8,2.63,E,GEN,19970101
+NHL All-Star Hockey '95,Sega Midwest Development Division,4.6,10.0,2.09,E,GEN,19950101
+NHL Hockey,Park Place Productions,7.7,4.7,3.69,no,GEN,19910101
+NHLPA Hockey '93,Park Place Productions,0.5,8.9,3.57,no,GEN,19920101
+Nigel Mansell's Indy Car Racing,Gremlin Interactive,9.5,6.8,1.61,no,GEN,19940101
+Nigel Mansell's World Championship Racing,Gremlin Graphics Software,7.4,9.1,2.52,no,GEN,19930101
+Nightmare Circus,Funcom,3.0,8.5,5.06,no,GEN,19950101
+Nobunaga no Yabou: Bushou Fuuunsoku,Koei,5.2,7.6,0.13,no,GEN,19910101
+Nobunaga no Yabou: Haouden,Koei,8.7,9.5,0.82,no,GEN,19940101
+Nobunaga's Ambition,Koei,5.7,9.9,4.98,no,GEN,19930101
+Olympic Gold: Barcelona '92,U.S. Gold,8.7,3.5,3.27,no,GEN,19920101
+Olympic Summer Games: Atlanta 1996,Tiertex Design Studios,8.3,7.0,0.82,E,GEN,19960101
+Onslaught,Nextgrand,7.9,5.4,2.86,no,GEN,19910101
+Operation Europe,Koei,5.2,8.8,1.15,no,GEN,19940101
+Osomatsu-kun: Hachamecha Gekijou,Sega,7.8,9.5,0.3,no,GEN,19880101
+Out of This World,Delphine Software International,7.9,7.0,0.22,no,GEN,19930101
+Outlander,Mindscape Inc.,5.3,6.5,3.98,no,GEN,19920101
+OutRun,Sanritsu,7.6,9.8,0.35,no,GEN,19910101
+OutRun 2019,SIMS,5.0,8.6,1.59,no,GEN,19930101
+P.T.O.: Pacific Theater of Operations,Koei,1.3,5.8,3.32,no,GEN,19930101
+Pac-Attack,Namco,5.8,6.3,3.82,no,GEN,19930101
+Pac-Man 2: The New Adventures,Ballistic,2.0,4.8,0.1,no,GEN,19940101
+Pac-Mania,Sculptured Software,4.9,5.0,4.81,no,GEN,19910101
+Panorama Cotton,Success,9.7,1.9,2.95,no,GEN,19940101
+Paperboy,Tengen,2.6,6.9,1.62,no,GEN,19910101
+Paperboy 2,Tengen,6.9,8.9,0.81,no,GEN,19920101
+Pat Riley Basketball,Sega,1.4,7.3,6.67,no,GEN,19900101
+Pebble Beach Golf Links,Tikipod,4.5,8.4,5.65,no,GEN,19930101
+Pepenga Pengo,Sega,8.3,7.3,0.77,no,GEN,19950101
+PGA European Tour,Polygon Games,8.2,8.5,3.66,no,GEN,19940101
+PGA Tour 96,NuFX,3.7,9.5,0.13,E,GEN,19950101
+PGA Tour Golf,Sterling Silver Software,6.2,9.5,1.35,no,GEN,19910101
+PGA Tour Golf II,Polygames,6.7,6.5,2.88,no,GEN,19920101
+PGA Tour Golf III,High Score Productions,7.3,9.1,0.48,no,GEN,19940101
+Phantasy Star II,Sega,8.0,9.3,3.44,no,GEN,19880101
+Phantasy Star III: Generations of Doom,Sega,8.4,8.7,0.55,no,GEN,19900101
+Phantasy Star IV,Sega,9.0,8.1,1.55,E,GEN,19940101
+Phantom 2040,Viacom New Media,7.7,7.2,1.7,E,GEN,19950101
+Phelios,Namco,3.9,0.8,0.29,no,GEN,19900101
+Pier Solar and the Great Architects,WaterMelon Development,5.9,8.0,3.0,no,GEN,20100101
+Pink Goes to Hollywood,HeadGames,6.6,4.9,7.35,no,GEN,19930101
+Pirates! Gold,MicroProse,7.2,5.3,0.46,no,GEN,19930101
+Pit-Fighter,Sterling Silver Software,1.6,1.5,1.4,no,GEN,19910101
+Pitfall: The Mayan Adventure,Activision,5.6,3.4,0.64,T,GEN,19940101
+Populous,Bullfrog Productions,6.4,7.4,3.1,no,GEN,19890101
+Power Drive,Rage Software,9.4,8.4,0.41,no,GEN,19940101
+Power Monger,Sprytes,8.2,5.4,1.45,no,GEN,19930101
+Powerball,Namco,6.6,9.1,0.83,no,GEN,19910101
+Predator 2,Teeny Weeny Games,2.7,6.7,3.66,no,GEN,19920101
+Premier Manager 97,Gremlin Interactive,3.9,8.0,2.4,no,GEN,19960101
+Primal Rage,Probe Entertainment Limited,8.5,9.1,0.72,T,GEN,19950101
+Prime Time NFL Starring Deion Sanders,Farsight Technologies,1.5,5.7,3.84,E,GEN,19950101
+Prince of Persia,Broderbund,3.6,9.7,1.66,no,GEN,19930101
+Pro Moves Soccer,ASCII Entertainment,6.4,7.8,0.4,no,GEN,19930101
+Psycho Pinball,Codemasters,8.4,5.9,0.3,no,GEN,19940101
+Puggsy,Traveller's Tales,7.7,9.5,1.96,no,GEN,19930101
+Pulseman,Game Freak,5.9,7.8,2.44,no,GEN,19940101
+Puyo Puyo,Compile,7.6,8.0,1.11,no,GEN,19920101
+Puyo Puyo 2,Compile,2.7,2.4,2.76,no,GEN,19940101
+QuackShot starring Donald Duck,Sega (AM7),8.2,9.2,10.01,no,GEN,19910101
+Quad Challenge,Namco,6.6,7.4,0.02,no,GEN,19910101
+Raiden Trad,Micronet,7.9,6.9,3.77,no,GEN,19930101
+Rambo III,Sega,7.5,4.4,1.82,no,GEN,19890101
+Rampart,Tengen,4.6,8.9,1.18,no,GEN,19910101
+Ranger X,Gau Entertainment,9.3,6.1,6.88,no,GEN,19930101
+Red Zone,Zyrinx,2.7,8.2,3.15,no,GEN,19940101
+Rent A Hero,Sega,8.6,8.2,0.57,no,GEN,19910101
+Revolution X,Rage Software,4.4,8.1,1.11,T,GEN,19950101
+Rings of Power,Naughty Dog,7.4,4.8,0.25,no,GEN,19910101
+Rise of the Robots,Data Design Interactive,5.4,6.5,1.48,no,GEN,19940101
+Risky Woods,Dinamic Software,8.0,6.3,3.04,no,GEN,19920101
+Ristar,Sonic Team,6.8,7.5,0.63,E,GEN,19950101
+Road Rash,Electronic Arts,5.1,8.8,1.92,no,GEN,19920101
+Road Rash 3,Electronic Arts,8.6,8.3,1.27,E,GEN,19950101
+Road Rash II,Electronic Arts,5.9,6.8,2.68,no,GEN,19930101
+RoadBlasters,Sterling Silver Software,6.8,8.8,1.14,no,GEN,19910101
+RoboCop 3,Eden Entertainment Software,5.9,6.1,4.07,no,GEN,19930101
+RoboCop versus The Terminator,Virgin Interactive,6.2,8.9,1.67,no,GEN,19940101
+Rock N' Roll Racing,Silicon & Synapse,7.8,2.9,4.28,no,GEN,19940101
+Rocket Knight Adventures,Konami,3.2,9.4,0.8,no,GEN,19930101
+Roger Clemens' MVP Baseball,Sculptured Software,7.5,9.3,3.36,no,GEN,19920101
+Rolling Thunder 2,Namco,3.5,6.5,2.29,no,GEN,19910101
+Rolling Thunder 3,Namco,7.9,9.3,2.04,no,GEN,19930101
+Rolo to the Rescue,Vectordean,4.3,6.7,7.06,no,GEN,19920101
+Romance of the Three Kingdoms II,Koei,5.1,7.0,3.18,no,GEN,19910101
+Rugby World Cup 95,EA,8.3,3.4,8.45,no,GEN,19940101
+Sagaia,Taito Corporation,3.0,6.9,6.37,no,GEN,19910101
+Saint Sword,Taito,6.5,9.3,0.85,no,GEN,19910101
+Samurai Shodown,Saurus,2.2,4.0,0.04,no,GEN,19940101
+Saturday Night Slammasters,Capcom,8.4,2.4,1.0,T,GEN,19940101
+Scooby-Doo Mystery,The Illusions Gaming Company,4.1,5.6,0.17,E,GEN,19950101
+seaQuest DSV,Sculptured Software,7.8,9.8,0.09,E,GEN,19940101
+Second Samurai,Vivid Image,7.7,8.8,2.71,no,GEN,19940101
+Sega Sports 1: Super Monaco / Wimbledon / Ultimate Soccer,Sega,7.8,8.5,0.61,no,GEN,19950101
+Sensible Soccer: European Champions,Sensible Software,7.0,5.3,1.7,no,GEN,19930101
+Sesame Street Counting Cafe,Electronic Arts,4.9,4.1,0.29,no,GEN,19940101
+Shadow Blasters,Sigma Enterprises,5.7,8.9,4.11,no,GEN,19900101
+Shadow Dancer: The Secret of Shinobi,Sega,1.6,9.3,0.39,no,GEN,19900101
+Shadow of the Beast,WJS Design,1.8,5.5,1.13,no,GEN,19910101
+Shadow of the Beast II,WJS Design,3.3,8.7,2.51,no,GEN,19920101
+Shadowrun,Blue Sky Software,5.4,7.1,2.71,no,GEN,19940101
+Shanghai II: Dragon's Eye,Activision,6.7,6.5,4.2,no,GEN,19940101
+Shaq-Fu,Delphine Software International,4.3,2.4,4.67,no,GEN,19940101
+Shining Force: The Legacy of Great Intention,Climax Entertainment/Sonic Team,5.9,6.0,0.16,no,GEN,19920101
+Shining in the Darkness,Climax Entertainment / Sonic! Software Planning,5.2,9.9,0.44,no,GEN,19910101
+Shinobi III: Return of the Ninja Master,Sega (AM7),1.7,9.7,0.11,no,GEN,19930101
+Side Pocket,Data East,3.6,8.6,1.27,no,GEN,19920101
+Skitchin',Electronic Arts,7.8,6.6,3.38,no,GEN,19930101
+Slam Dunk: Kyougou Makkou Taiketsu!,Bandai,5.3,8.1,3.79,no,GEN,19950101
+Slaughter Sport,Sanritsu Denki,3.1,9.0,4.63,no,GEN,19910101
+Snake Rattle n Roll,Rare Ltd.,7.3,8.1,1.15,no,GEN,19930101
+Snow Bros.,Toaplan,9.0,2.2,1.34,no,GEN,19930101
+Sol-Deace,Wolf Team,7.1,5.9,0.74,no,GEN,19920101
+Soldiers of Fortune,Bitmap Brothers,4.8,8.8,0.39,no,GEN,19930101
+Sonic 3D Blast,Traveller's Tales,7.2,7.6,0.82,E,GEN,19960101
+Sonic Classics,Sega,8.5,2.7,4.17,E,GEN,19970101
+Sonic Eraser (MN),Sonic Team,3.4,7.4,0.2,no,GEN,19910101
+Sonic the Hedgehog Spinball,Sega,6.0,4.1,0.69,no,GEN,19930101
+Sorcerer's Kingdom,Genic,5.4,9.7,10.45,no,GEN,19920101
+Sorcerian,Nihon Falcom Corporation,8.3,8.2,1.19,no,GEN,19900101
+Space Harrier II,Sega,2.9,8.8,2.65,no,GEN,19890101
+Space Invaders '91,Taito Corporation,5.5,8.0,0.7,no,GEN,19910101
+Sparkster,Konami,9.3,8.0,0.6,no,GEN,19940101
+Speedball 2: Brutal Deluxe,The Bitmap Brothers,7.2,7.0,2.3,no,GEN,19860101
+Spider-Man,Recreational Brainware,4.0,7.9,0.14,no,GEN,19910101
+Spider-Man & Venom: Maximum Carnage,Software Creations,8.5,8.9,2.5,no,GEN,19940101
+Spider-Man and Venom: Separation Anxiety,Software Creations,8.4,4.9,0.37,E,GEN,19950101
+Spider-Man the Animated Series,Acclaim Entertainment,1.7,8.0,0.06,E,GEN,19930101
+Spider-Man/X-Men: Arcade's Revenge,Software Creations,6.5,5.4,1.32,no,GEN,19860101
+Spiritual Warfare,Wisdom Tree,0.2,7.7,2.68,no,GEN,19940101
+Spirou,Infogrames,8.0,8.2,0.11,no,GEN,19960101
+Splatterhouse 2,Namco,9.1,7.9,0.4,no,GEN,19920101
+Splatterhouse 3,Namco,8.3,9.9,1.57,no,GEN,19930101
+Sports Talk Baseball,Sega,8.2,8.5,3.88,no,GEN,19920101
+Spot Goes to Hollywood,Virgin Interactive,6.6,1.3,3.28,E,GEN,19950101
+Star Control,Toys for Bob,5.1,4.4,2.05,no,GEN,19910101
+Star Trek: Deep Space Nine - Crossroads of Time,Novotrade International,8.6,8.0,4.1,E,GEN,19950101
+Star Trek: The Next Generation: Echoes from the Past,MicroProse,6.1,7.8,0.29,no,GEN,19940101
+Starflight,BlueSky Software,2.9,7.4,0.78,no,GEN,19910101
+Stargate,Probe Entertainment Limited,6.9,5.9,0.86,E,GEN,19940101
+Steel Empire,Hot-B,4.0,7.1,1.96,no,GEN,19920101
+Steel Talons,Polygames,2.4,5.6,1.4,no,GEN,19920101
+StormLord,Punk Development,5.3,4.1,1.98,no,GEN,19900101
+Street Fighter 2 Special Champion Edition,Capcom,0.3,8.2,2.68,no,GEN,19870101
+Street Racer,Vivid Image,8.2,8.1,1.08,E,GEN,19950101
+Streets of Rage 2,Sega,8.1,9.2,0.48,no,GEN,19920101
+Strider,Capcom,8.7,4.3,5.39,no,GEN,19900101
+Strider Returns: Journey From Darkness,Tiertex Design Studios,9.7,9.2,0.71,no,GEN,19900101
+Sub-Terrania,Zyrinx,4.4,3.8,8.24,no,GEN,19930101
+Sunset Riders,Konami,9.0,7.9,7.45,no,GEN,19930101
+Super Baseball 2020,Pallas,3.8,4.8,0.2,no,GEN,19940101
+Super Battleship,Synergistic Software,7.6,9.4,3.1,no,GEN,19930101
+Super Fantasy Zone,SunSoft,6.2,9.5,0.42,no,GEN,19930101
+Super Hang-On,Sega,4.6,5.7,3.82,E,GEN,19890101
+Super High Impact,Unknown,5.5,7.4,1.36,no,GEN,19920101
+Super Hydlide,Tikipod,2.8,8.8,5.74,no,GEN,19890101
+Super Kick Off,Tiertex Design Studios,7.8,8.5,2.62,no,GEN,19920101
+Super Monaco GP,Sega,7.9,1.2,2.93,no,GEN,19900101
+Super Smash T.V.,Probe Entertainment Limited,7.5,9.1,0.61,no,GEN,19920101
+Super Thunder Blade,Sega,6.0,6.4,1.91,no,GEN,19880101
+Super Volleyball,Micronics,6.2,9.7,1.6,no,GEN,19910101
+Superman,SunSoft,3.4,7.8,1.51,no,GEN,19920101
+Surging Aura,Japan Media Programming Inc. (JAMP),8.4,8.5,0.33,no,GEN,19950101
+Sword of Sodan,Innerprise Software,0.4,7.2,0.72,no,GEN,19900101
+Sword of Vermilion,Sega,4.2,6.2,4.11,no,GEN,19890101
+Syd of Valis,Telenet,2.5,3.0,0.73,no,GEN,19920101
+Sylvester and Tweety in Cagey Capers,"Alexandria, Inc.",4.9,9.2,0.17,no,GEN,19930101
+Syndicate,Bullfrog Productions,3.0,5.2,0.58,no,GEN,19940101
+T2: The Arcade Game,Probe Entertainment Limited,5.3,8.7,0.97,no,GEN,19920101
+Taiheiki,Sega,2.6,8.0,3.88,no,GEN,19910101
+Taikou Risshiden,Koei,0.5,8.8,1.51,no,GEN,19930101
+Target Earth,NCS,4.5,3.6,3.38,no,GEN,19900101
+Taz in Escape From Mars,"HeadGames, Inc.",5.3,9.4,0.12,no,GEN,19940101
+Taz-Mania,Recreational Brainware,5.2,7.2,6.83,E,GEN,19920101
+Team USA Basketball,Electronic Arts,6.8,8.1,1.47,no,GEN,19920101
+TechnoClash,Zono Inc.,8.9,9.2,3.29,no,GEN,19930101
+Technocop,Razor Soft,6.7,5.9,1.07,no,GEN,19900101
+Tecmo Cup Football Game,Tecmo,7.6,6.4,0.51,no,GEN,19920101
+Tecmo Super Baseball,Sculptured Software,7.4,4.7,1.14,no,GEN,19940101
+Tecmo Super Bowl,Tecmo,5.4,7.5,4.78,no,GEN,19930101
+Tecmo Super Bowl II: Special Edition,Tecmo,6.4,5.7,7.07,E,GEN,19940101
+Tecmo Super Bowl III: Final Edition,Tecmo,5.5,5.8,0.95,E,GEN,19950101
+Tecmo Super NBA Basketball,Sculptured Software,5.4,8.8,2.8,no,GEN,19930101
+Tecmo World Cup,SIMS,5.8,6.1,0.25,no,GEN,19900101
+Teenage Mutant Ninja Turtles: The Hyperstone Heist,Konami,5.5,7.5,0.18,no,GEN,19920101
+Teenage Mutant Ninja Turtles: Tournament Fighters,Konami,7.1,7.5,0.86,no,GEN,19930101
+Telstar Double Value Games: Sonic the Hedgehog 2 / Bubsy in: Claws Encounters of the Furred Kind,Various,9.4,9.9,1.89,no,GEN,19950101
+Terminator 2 Judgment Day,Bits Studios,6.5,0.6,1.27,no,GEN,19950101
+Test Drive II: The Duel,Distinctive Software,8.5,9.8,1.66,no,GEN,19920101
+The Addams Family,Ocean,8.9,6.0,1.09,no,GEN,19940101
+The Adventures of Batman & Robin,Clockwork Games,3.1,8.7,1.42,E,GEN,19950101
+The Adventures of Mighty Max,WJS Design,4.4,2.4,8.07,E,GEN,19940101
+The Adventures of Rocky and Bullwinkle and Friends,Imagineering Inc.,3.7,8.3,0.38,no,GEN,19930101
+The Aquatic Games starring James Pond and the Aquabats,Millenium Interactive,7.5,7.9,0.7,no,GEN,19930101
+The Aquatic Games starring James Pond and the Aquabats,Millenium Interactive,5.5,5.7,6.79,no,GEN,19930101
+The Berenstain Bears' Camping Adventure,Realtime Associates,6.3,8.5,1.33,no,GEN,19930101
+The Death and Return of Superman,Blizzard Entertainment,8.7,9.4,2.88,no,GEN,19950101
+The Disney Collection: Castle of Illusion / Quackshot,Sega (AM7),7.3,4.5,2.43,no,GEN,19960101
+The Faery Tale Adventure,New World Computing,4.6,2.0,6.27,no,GEN,19910101
+The Flintstones,Taito Corporation,6.8,2.5,0.15,no,GEN,19930101
+The Great Waldo Search,Radiance,2.1,6.6,1.41,no,GEN,19920101
+The Humans,"Imagitec Design, Inc.",5.3,5.5,3.74,no,GEN,19920101
+The Hybrid Front,Sega,9.6,8.6,2.62,no,GEN,19940101
+The Immortal,Sandcastle,1.0,5.8,0.3,no,GEN,19930101
+The Incredible Hulk,Probe Entertainment Limited,6.6,2.1,0.05,no,GEN,19940101
+The Itchy & Scratchy Game,Bits Studios,5.3,8.1,2.92,E,GEN,19940101
+The Lawnmower Man,Atod AB,8.2,8.5,0.47,no,GEN,19940101
+The Lost Vikings,Silicon & Synapse,8.1,8.9,2.07,no,GEN,19920101
+The Lost World: Jurassic Park,Appaloosa Interactive,6.4,5.8,0.11,E,GEN,19970101
+The Miracle Piano Teaching System,The Software Toolworks,8.7,7.1,1.33,no,GEN,19920101
+The New Zealand Story,Taito Corporation,9.2,9.5,1.28,no,GEN,19900101
+The Ooze,Sega Technical Institute,4.1,8.5,0.16,E,GEN,19950101
+The Ottifants,Graftgold,6.7,0.6,0.29,no,GEN,19930101
+The Pagemaster,Probe Software Ltd.,4.4,8.7,0.67,no,GEN,19940101
+The Pirates of Dark Water,Iguana Entertainment,3.9,8.8,3.97,no,GEN,19940101
+The Punisher,Sculptured Software,7.1,4.7,0.09,T,GEN,19940101
+The Ren & Stimpy Show Presents: Stimpy's Invention,Blue Sky Software,8.7,7.4,3.34,no,GEN,19930101
+The Revenge of Shinobi,Sega,6.4,8.2,2.3,E,GEN,19890101
+The Simpsons: Bart vs. the Space Mutants,Arc Developments,0.8,5.4,1.05,no,GEN,19920101
+The Simpsons: Bart's Nightmare,"Sculptured Software, Inc.",8.1,8.7,2.45,no,GEN,19930101
+The Smurfs,Virtual Studio,4.0,5.2,1.97,no,GEN,19950101
+The Smurfs Travel The World,Visual Studio,5.3,7.9,6.39,no,GEN,19960101
+The Terminator,Probe Entertainment Limited,8.5,6.7,3.1,no,GEN,19910101
+The Tick,Fox,9.4,9.0,1.57,no,GEN,19940101
+Theme Park,Bullfrog Productions,4.1,9.2,1.18,E,GEN,19950101
+Thomas the Tank Engine & Friends,Unknown,7.7,10.0,1.01,no,GEN,19930101
+Thunder Force II,"TechnoSoft Co., Ltd.",3.2,8.3,0.68,no,GEN,19890101
+Thunder Force III,"TechnoSoft Co., Ltd.",9.5,8.3,1.15,no,GEN,19900101
+Time Killers,Incredible Technologies,6.7,9.3,2.39,M,GEN,19960101
+Tinhead,MicroProse,2.4,7.7,2.07,no,GEN,19930101
+Tintin in Tibet,Infogrames,1.1,6.4,0.63,no,GEN,19950101
+Tiny Toon Adventures: ACME All-Stars,Konami,6.9,6.8,3.98,no,GEN,19940101
+Tiny Toon Adventures: Buster's Hidden Treasure,Konami,4.8,3.3,0.03,no,GEN,19930101
+TNN Bass Tournament of Champions,Imagitec Design,4.4,8.3,0.6,E,GEN,19930101
+TNN Outdoors Bass Tournament '96,Imagitec Design,6.1,4.2,0.31,E,GEN,19960101
+Todd's Adventures in Slime World,Epyx,6.0,7.5,0.61,no,GEN,19910101
+ToeJam & Earl,ToeJam & Earl Productions,5.2,6.4,1.56,no,GEN,19920101
+ToeJam & Earl in Panic on Funkotron,ToeJam & Earl Productions,7.5,7.4,3.45,no,GEN,19930101
+Toki: Going Ape Spit,TAD Corporation,3.4,5.7,3.37,no,GEN,19910101
+Tom and Jerry: Frantic Antics!,Beam Software,7.6,6.0,0.31,no,GEN,19940101
+Tommy Lasorda Baseball,Sega,4.1,8.7,1.46,no,GEN,19890101
+Tony La Russa Baseball,Stormfront Studios,9.4,8.4,0.84,no,GEN,19930101
+Toughman Contest,Visual Concepts,4.2,4.5,0.62,T,GEN,19950101
+Tougi-Ou: King Colossus,Sega,8.2,6.0,4.55,no,GEN,19920101
+Toxic Crusaders,Infogrames,3.1,5.9,1.9,no,GEN,19920101
+Toy Story,Traveller's Tales,8.0,6.2,2.86,E,GEN,19960101
+Traysia,Telenet Japan,4.7,9.8,1.03,no,GEN,19920101
+Triple Play 96,Extended Play Productions,8.2,9.8,2.04,E,GEN,19950101
+Triple Score: 3 Games in 1,Sega,8.7,6.5,3.55,no,GEN,19930101
+Trouble Shooter,Vic Tokai,0.1,6.9,0.3,no,GEN,19910101
+Troy Aikman NFL Football,Leland Interactive Media,7.2,9.9,3.56,no,GEN,19940101
+True Lies,Beam Software,6.4,6.8,2.81,T,GEN,19950101
+Truxton,Toaplan,4.9,8.6,0.94,no,GEN,19890101
+Turbo OutRun,Tiertex Design Studios,8.1,5.9,9.32,no,GEN,19920101
+Turrican,The Code Monkeys,7.6,4.4,3.19,no,GEN,19910101
+Twin Cobra,GRC,7.6,4.1,2.43,no,GEN,19910101
+Twin Hawk,Sega,7.4,9.8,1.81,no,GEN,19900101
+Two Crude Dudes,OperaHouse,7.8,9.1,0.33,no,GEN,19920101
+Tyrants: Fight Through Time,Sensible Software,2.7,9.0,0.07,no,GEN,19920101
+Uchuu Senkan Gomora,Aisystem Tokyo,3.9,1.5,0.9,no,GEN,19910101
+Ultimate Mortal Kombat 3,Avalanche Software,7.5,9.5,1.94,M,GEN,19960101
+Ultimate Qix,Taito Corporation,7.4,7.6,1.6,no,GEN,19910101
+Ultimate Soccer,Rage Software,0.2,6.3,1.7,no,GEN,19930101
+Ultraman,Ma-Ba,3.3,5.8,0.84,no,GEN,19930101
+Uncharted Waters,Koei,7.7,8.4,0.55,no,GEN,19920101
+Universal Soldier,The Code Monkeys,8.6,6.2,1.46,no,GEN,19920101
+Urban Strike,Granite Bay Software,7.4,6.7,1.23,no,GEN,19940101
+Valis,Riot,8.9,9.4,2.84,no,GEN,19910101
+Valis III,Telenet Japan,6.9,7.1,0.32,no,GEN,19910101
+Vectorman,Blue Sky Software,6.5,8.0,1.81,E,GEN,19950101
+Vectorman 2,Blue Sky Software,3.3,5.6,3.81,E,GEN,19960101
+Viewpoint,Nexus Interact,5.9,7.0,1.03,no,GEN,19940101
+Virtua Fighter 2,Sega-AM2,1.6,7.9,1.02,T,GEN,19970101
+Virtual Bart,Sculptured Software,9.1,8.7,1.28,no,GEN,19940101
+Virtual Pinball,"BudgeCo., Inc.",4.0,8.2,2.5,no,GEN,19930101
+Vixen 357,NCS,9.3,6.3,3.53,no,GEN,19920101
+VR Troopers,Syrox Developments,2.8,8.9,3.28,E,GEN,19950101
+Wacky Worlds Creativity Studio,HeadGames,8.9,7.9,0.14,E,GEN,19940101
+Wardner,Toaplan,7.1,6.6,0.22,no,GEN,19910101
+Warlock,Realtime Associates,3.6,9.7,0.11,E,GEN,19940101
+WarpSpeed,Accolade,8.4,0.7,0.06,no,GEN,19930101
+Warrior of Rome,Micronet,8.7,7.9,1.33,no,GEN,19910101
+Warrior of Rome II,Micronet,7.7,4.4,1.46,no,GEN,19920101
+Warsong,NCS,6.9,10.0,0.05,no,GEN,19910101
+Wayne's World,Gray Matter,2.7,8.1,0.59,no,GEN,19930101
+WeaponLord,Visual Concepts,5.6,3.0,1.87,T,GEN,19950101
+Wheel of Fortune,"Imagitec Design, Inc.",8.4,7.7,1.35,no,GEN,19920101
+Where in the World is Carmen Sandiego?,EA Canada,6.1,5.9,0.75,no,GEN,19920101
+Whip Rush,Vic Tokai,6.3,7.1,3.17,no,GEN,19900101
+Williams Arcade's Greatest Hits,Digital Eclipse,0.4,5.7,0.39,E,GEN,19960101
+Wimbledon Championship Tennis,SIMS,3.0,8.0,0.82,no,GEN,19930101
+Wings of Wor,NCS,7.7,6.4,0.13,no,GEN,19910101
+Winter Olympic Games: Lillehammer '94,Tiertex Design Studios,7.9,8.7,1.56,no,GEN,19930101
+Wiz 'n' Liz,Raising Hell Productions,0.9,6.1,0.73,no,GEN,19930101
+Wolfchild,Core Design Ltd.,5.9,9.2,0.11,no,GEN,19930101
+Wolverine: Adamantium Rage,Teeny Weeny Games,8.0,8.3,1.2,E,GEN,19940101
+Wonder Boy III: Monster Lair,Westone Bit Entertainment,9.0,5.6,2.95,no,GEN,19910101
+Wonder Boy in Monster World,Westone Bit Entertainment,5.6,9.2,0.65,no,GEN,19920101
+World Championship Soccer,SEGA Enterprises Ltd.,7.3,2.2,1.26,no,GEN,19900101
+World Cup USA 94,Tiertex Design Studios,4.6,9.3,1.1,no,GEN,19940101
+World Heroes,Sega,3.6,8.6,3.38,no,GEN,19940101
+World of Illusion starring Mickey Mouse and Donald Duck,Sega of America,4.6,9.2,2.01,no,GEN,19920101
+World Series Baseball,Blue Sky Software,9.3,0.9,0.93,no,GEN,19940101
+World Trophy Soccer,Game Arts,2.4,6.6,0.3,no,GEN,19920101
+Worms,EastPoint,3.2,9.0,0.14,no,GEN,19950101
+Wrestle War,Sega,6.8,6.8,2.53,no,GEN,19910101
+WWF Raw (1994),Sculptured Software,1.6,9.7,0.32,E,GEN,19940101
+WWF Royal Rumble,Sculptured Software,2.2,8.3,0.77,no,GEN,19930101
+WWF Super Wrestlemania,Sculptured Software,6.6,0.2,0.35,no,GEN,19920101
+WWF WrestleMania: The Arcade Game,Sculptured Software,8.2,7.2,2.3,E,GEN,19950101
+X-Men,"Western Technologies, Inc.",3.2,8.5,1.55,no,GEN,19930101
+X-Men 2: Clone Wars,HeadGames,2.9,9.1,0.56,E,GEN,19950101
+X-Perts,Abalone,1.6,8.4,2.98,T,GEN,19960101
+Xenon 2: Megablast,The Bitmap Brothers,6.6,6.1,0.3,no,GEN,19920101
+Yogi Bear's Cartoon Capers,Blue Turtle,6.1,8.5,0.5,no,GEN,19940101
+Ys III: Wanderers from Ys,Nihon Falcom Corporation,7.0,8.6,2.69,no,GEN,19910101
+"Ys: Celceta, Sea of Trees",Unknown,5.9,4.6,4.06,no,GEN,19930101
+Yuu Yuu Hakusho Gaiden,Gau Entertainment,6.9,8.2,7.23,no,GEN,19940101
+Zany Golf,Sandcastle,2.1,9.3,0.02,no,GEN,19900101
+Zero Tolerance,Acolade,4.7,8.7,2.12,no,GEN,19940101
+Zero Wing,Toaplan,8.8,6.5,1.95,no,GEN,19910101
+Zombies Ate My Neighbors,LucasArts,7.7,4.9,1.1,no,GEN,19930101
+Zool,Gremlin Graphics,1.6,8.0,0.07,no,GEN,19920101
+Zoom!,"SEGA of America, Inc.",7.7,9.0,2.37,no,GEN,19890101
+Zoop,Panelcomp,9.1,5.5,2.99,E,GEN,19950101
+Growl,Taito,2.2,7.9,1.52,no,GEN,19910101
+Menacer 6-Game Cartridge,"Western Technologies, Inc.",8.7,8.2,4.36,no,GEN,19920101
+The Incredible Crash Dummies,Gray Matter,2.7,7.5,0.32,no,GEN,19930101

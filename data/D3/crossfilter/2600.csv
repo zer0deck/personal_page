@@ -1,0 +1,498 @@
+name,developer,ucs,user,sale,rating,platform,date
+Pac-Man,Atari,5.5,7.7,3.98,no,2600,19820101
+Pitfall!,Activision,7.8,6.3,4.5,no,2600,19820101
+Asteroids,Atari,6.0,9.0,4.31,no,2600,19810101
+Missile Command,Atari,1.1,5.0,2.76,no,2600,19810101
+Space Invaders,Atari,8.2,7.1,2.53,no,2600,19780101
+Frogger,Konami,7.9,7.6,2.2,no,2600,19820101
+Demon Attack,Imagic,6.6,6.4,2.13,no,2600,19820101
+E.T.: The Extra Terrestrial,Atari,5.8,5.2,1.97,no,2600,19820101
+Ms. Pac-Man,General Entertainment,9.3,9.3,1.65,no,2600,19820101
+Dig Dug,Atari,1.5,9.2,1.64,no,2600,19830101
+River Raid,Activision,1.0,8.9,1.6,no,2600,19820101
+Mario Bros.,Atari,6.4,8.0,1.59,no,2600,19830101
+Donkey Kong,Nintendo,5.2,9.7,1.46,no,2600,19820101
+Centipede,Atari,9.5,3.1,1.36,no,2600,19820101
+Pitfall II: Lost Caverns,Activision,8.2,9.7,1.31,no,2600,19830101
+Adventure,Atari,7.1,8.7,1.3,no,2600,19780101
+Atlantis,Imagic,2.9,5.7,1.27,no,2600,19820101
+Combat,Atari,9.7,5.5,1.25,no,2600,19770101
+Pole Position,Atari,8.1,3.9,1.18,no,2600,19830101
+Kaboom!,Activision,3.8,5.7,1.15,no,2600,19810101
+Moon Patrol,Atari,8.7,3.3,1.12,no,2600,19830101
+Megamania,Activision,6.9,4.2,1.1,no,2600,19820101
+Jungle Hunt,Atari,7.0,7.5,1.1,no,2600,19830101
+Joust,Atari,4.1,9.1,1.08,no,2600,19830101
+Cosmic Ark,Imagic,9.0,6.6,1.05,no,2600,19820101
+Defender,Atari,8.9,8.4,1.05,no,2600,19810101
+Air-Sea Battle,Atari,0.5,2.7,0.98,no,2600,19770101
+Donkey Kong Junior,Nintendo,6.2,9.3,0.97,no,2600,19830101
+Spider-Man,Parker Bros.,6.5,7.5,0.93,no,2600,19820101
+Enduro,Activision,1.1,3.9,0.87,no,2600,19830101
+Custer's Revenge,Mystique,6.4,8.7,0.82,no,2600,19820101
+Alien,20th Century Fox Video Games,7.5,6.9,0.79,no,2600,19820101
+Yars' Revenge,Atari,7.0,4.6,0.78,no,2600,19820101
+Jr. Pac-Man,General Entertainment,9.2,9.1,0.78,no,2600,19840101
+Galaxian,Atari,5.7,5.1,0.77,no,2600,19830101
+Air Raid,Men-A-Vision,9.6,4.8,0.77,no,2600,19820101
+Boxing,Activision,6.8,9.1,0.77,no,2600,19800101
+Crystal Castles,Atari,7.9,5.1,0.77,no,2600,19840101
+Berzerk,Stern Electronics,9.1,7.5,0.73,no,2600,19820101
+Kangaroo,Atari,8.8,8.5,0.72,no,2600,19830101
+King Kong,Tigervision,9.7,9.5,0.69,no,2600,19820101
+Adventures of Tron,Mattel,5.8,7.5,0.67,no,2600,19820101
+Keystone Kapers,Activision,4.5,7.8,0.66,no,2600,19830101
+Kung-Fu Master,Activision,7.5,5.3,0.65,no,2600,19870101
+X-Man,Universal Gamex,7.9,9.6,0.63,no,2600,19830101
+Battlezone,Atari,8.9,7.5,0.62,no,2600,19830101
+Halloween,Wizard Video Games,7.4,8.3,0.62,no,2600,19830101
+BurgerTime,Mattel,4.3,4.7,0.59,no,2600,19820101
+Smurf: Rescue In Gargamel's Castle,Coleco,7.6,3.9,0.59,no,2600,19820101
+Q*bert,Gottlieb,5.7,6.2,0.58,no,2600,19830101
+The Activision Decathlon,Activision,7.3,8.6,0.55,no,2600,19830101
+Action Force,Parker Bros.,4.4,9.4,0.54,no,2600,19830101
+Popeye,Parker Bros.,2.5,7.1,0.54,no,2600,19830101
+Fishing Derby,Activision,7.8,6.0,0.51,no,2600,19800101
+River Raid II,Activision,7.8,4.9,0.51,no,2600,19880101
+Midnight Magic,Atari,3.1,8.2,0.5,no,2600,19840101
+Chopper Command,Activision,7.5,6.0,0.5,no,2600,19820101
+RealSports Tennis,Atari,3.4,9.5,0.5,no,2600,19830101
+Gauntlet,Answer Software,9.1,8.5,0.5,no,2600,19830101
+Raiders of the Lost Ark,Atari,4.4,0.8,0.5,no,2600,19820101
+Ice Hockey,Activision,2.1,9.4,0.49,no,2600,19810101
+Millipede,Atari,8.4,6.3,0.48,no,2600,19840101
+Grand Prix,Activision,4.9,3.1,0.48,no,2600,19820101
+Double Dragon,Activision,8.3,8.7,0.47,no,2600,19890101
+Karate,Ultravision,8.9,8.5,0.47,no,2600,19800101
+Commando,Data East,5.3,8.2,0.47,no,2600,19880101
+Circus Atari,Atari,8.7,8.0,0.46,no,2600,19780101
+Gremlins,Atari,5.9,7.7,0.46,no,2600,19840101
+Ghostbusters,Atari,8.4,8.7,0.45,no,2600,19850101
+Phoenix,Centuri,9.1,8.2,0.45,no,2600,19820101
+Maze Craze: A Game of Cops 'n Robbers,Atari,6.0,4.5,0.45,no,2600,19780101
+Defender II,"Williams Electronic Games, Inc.",8.3,4.6,0.45,no,2600,19880101
+Jawbreaker,Tigervision,5.0,8.9,0.45,no,2600,19820101
+Super Breakout,Atari,5.4,9.0,0.44,no,2600,19780101
+Barnstorming,Activision,5.6,8.2,0.43,no,2600,19820101
+Pengo,Atari,9.3,7.9,0.4,no,2600,19840101
+Mouse Trap,Coleco,7.6,9.5,0.4,no,2600,19820101
+Congo Bongo,Sega,7.9,9.3,0.4,no,2600,19830101
+Bump 'n' Jump,Mattel,6.5,8.1,0.39,no,2600,19830101
+Laser Blast,Activision,5.5,8.4,0.39,no,2600,19810101
+Airlock,Data Age,5.7,8.1,0.39,no,2600,19820101
+Hangman,Atari,9.2,8.4,0.38,no,2600,19780101
+Gravitar,Atari,7.2,9.6,0.38,no,2600,19830101
+Solaris,Atari,8.0,7.8,0.37,no,2600,19860101
+Dragonfire,Imagic,3.7,8.4,0.37,no,2600,19820101
+Frogs And Flies,Mattel,8.3,7.2,0.36,no,2600,19820101
+Freeway,Activision,3.0,8.7,0.34,no,2600,19810101
+Alien's Return,Gem International Corporation,9.4,5.7,0.34,no,2600,19830101
+Frostbite,Activision,7.8,7.6,0.34,no,2600,19830101
+Fantastic Voyage,20th Century Fox Video Games,5.2,8.0,0.34,no,2600,19820101
+Bank Heist,20th Century Fox Video Games,9.1,5.9,0.34,no,2600,19830101
+Carnival,Coleco,3.8,6.5,0.34,no,2600,19820101
+Frogger II: Threeedeep!,Parker Bros,7.0,8.7,0.33,no,2600,19840101
+Fireball,Starpath Corp.,4.4,7.5,0.33,no,2600,19820101
+Dragster,Activision,7.5,2.0,0.32,no,2600,19800101
+Frankenstein's Monster,Data Age,6.7,10.0,0.32,no,2600,19830101
+Mountain King,CBS Electronics,1.0,4.3,0.31,no,2600,19830101
+Slot Machine,Atari,8.4,6.6,0.31,no,2600,19790101
+Astroblast,Mattel,5.1,7.4,0.31,no,2600,19820101
+RealSports Boxing,Atari,8.2,1.9,0.29,no,2600,19870101
+Dolphin,Activision,9.4,6.4,0.29,no,2600,19830101
+Fast Food,Telesys,8.9,7.8,0.29,no,2600,19820101
+Polaris,Taito,8.8,8.5,0.28,no,2600,19830101
+Mr. Do!,Coleco,8.2,8.7,0.27,no,2600,19830101
+Indy 500,Atari,7.0,8.9,0.27,no,2600,19770101
+Beamrider,Activision,5.5,9.7,0.27,no,2600,19840101
+Bridge,Activision,8.6,9.1,0.27,no,2600,19800101
+Flag Capture,Atari,3.2,8.3,0.27,no,2600,19780101
+RealSports Football,Atari,4.4,9.0,0.26,no,2600,19820101
+Desert Falcon,Atari,7.1,9.3,0.26,no,2600,19870101
+Porky's,Dunhill Electronic Media Corp,3.9,8.7,0.25,no,2600,19830101
+Front Line,Coleco,4.2,5.8,0.24,no,2600,19820101
+Checkers,Activision,0.9,8.7,0.24,no,2600,19800101
+Dark Cavern,Mattel,5.5,4.6,0.24,no,2600,19820101
+Rampage,Activision,8.1,8.7,0.24,no,2600,19890101
+Assault,Bomb,8.9,9.6,0.22,no,2600,19830101
+Deadly Duck,20th Century Fox Video Games,5.4,4.6,0.22,no,2600,19820101
+Reactor,Parker Bros.,5.7,8.0,0.22,no,2600,19820101
+Crazy Climber,Atari,8.9,9.4,0.22,no,2600,19820101
+Breakaway IV,Atari,2.4,2.1,0.21,no,2600,19780101
+Ghostbusters II,Salu Ltd.,5.2,0.0,0.21,no,2600,19700101
+RealSports Baseball,Atari,2.7,7.3,0.21,no,2600,19820101
+International Soccer,Mattel,8.5,9.3,0.19,no,2600,19820101
+Armor Ambush,Mattel,9.8,1.3,0.17,no,2600,19820101
+Death Trap,Avalon Hill,6.5,9.7,0.17,no,2600,19830101
+Mr. Do!'s Castle,Parker Bros,5.2,5.7,0.17,no,2600,19840101
+Home Run,Atari,2.1,8.8,0.15,no,2600,19780101
+KLAX,Atari,5.5,7.5,0.15,no,2600,19900101
+Pressure Cooker,Activision,7.8,4.5,0.15,no,2600,19830101
+Krull,Atari,8.1,9.1,0.14,no,2600,19830101
+RealSports Volleyball,Atari,1.4,7.9,0.13,no,2600,19820101
+Super Football,Atari,3.1,2.3,0.08,no,2600,19880101
+Super Baseball,Atari,6.3,9.3,0.07,no,2600,19880101
+3-D Tic-Tac-Toe,Atari,9.1,3.6,3.71,no,2600,19780101
+Acid Drop,Salu,9.6,7.9,2.56,no,2600,19920101
+Air Raiders,Mattel,3.5,6.6,2.67,no,2600,19820101
+Alpha Beam with Ernie,"Children's Computer Workshop, Inc.",6.7,7.1,0.04,no,2600,19830101
+Amidar,Konami,9.1,5.2,4.64,no,2600,19820101
+Anteater,Stern,9.7,8.6,3.39,no,2600,19820101
+Artillery Duel,Xonox,2.6,5.5,0.06,no,2600,19830101
+Astrochase,Parker Bros.,4.8,8.5,1.41,no,2600,20130101
+Aufruhr im Zoo,Quelle,6.2,7.3,0.05,no,2600,19830101
+Bachelor Party,Mystique,5.8,7.4,0.85,no,2600,19820101
+Bachelorette Party/Burning Desire,Playaround,0.2,6.1,1.1,no,2600,19820101
+Backgammon,Atari,2.1,8.3,4.27,no,2600,19780101
+Basic Math,Atari,3.4,8.6,0.63,no,2600,19770101
+BASIC Programming,Atari,7.2,2.9,7.04,no,2600,19780101
+Basketball,Atari,8.8,7.0,0.44,no,2600,19780101
+Beany Bopper,Sirius Software,4.7,7.6,2.68,no,2600,19820101
+Beat 'Em & Eat 'Em,Mystique,6.6,8.2,1.96,no,2600,19820101
+Berenstain Bears,Coleco,7.2,3.4,2.22,no,2600,19830101
+Bermuda Triangle,Data Age,7.1,9.4,0.56,no,2600,19820101
+Big Bird's Egg Catch,Atari,3.5,6.0,1.85,no,2600,19830101
+Blackjack,Atari,6.0,9.0,2.58,no,2600,19770101
+Blue Print,CBS Electronics,6.9,6.1,0.51,no,2600,19830101
+BMX Airmaster,TNT Games,5.3,8.8,1.05,no,2600,19890101
+Bobby is Going Home,Bit Corporation,4.5,5.6,0.83,no,2600,19830101
+Bobby's Cosmic Adventure,"Telegames, Inc.",6.4,6.5,0.31,no,2600,20190101
+Boing!,First Star Software,4.0,9.6,0.88,no,2600,19830101
+Bowling,Atari,5.8,6.0,6.08,no,2600,19780101
+Brain Games,Atari,0.9,6.2,0.27,no,2600,19780101
+Breakout,Atari,0.3,5.1,2.98,no,2600,19780101
+Buck Rogers: Planet of Zoom,Sega,4.9,9.1,2.67,no,2600,19830101
+Bugs,Data Age,1.7,2.7,1.64,no,2600,19820101
+Bumper Bash,Spectravision,9.2,7.7,1.42,no,2600,19830101
+Busy Police,Zellers,7.1,8.8,0.89,no,2600,20060101
+Cakewalk,"CommaVid, Inc.",7.0,7.1,2.93,no,2600,19830101
+California Games,Epyx,6.9,3.7,6.32,no,2600,19880101
+Canyon Bomber,Atari,2.3,7.3,1.14,no,2600,19780101
+Casino,Atari,6.2,6.8,1.07,no,2600,19780101
+Challenge,Funvision,7.3,5.4,0.13,no,2600,19800101
+Chase the Chuckwagon,Spectravision,7.6,4.2,3.38,no,2600,19830101
+China Syndrome,Spectravision,2.1,0.4,1.31,no,2600,19820101
+Chuck Norris Superkicks,Xonox,2.6,6.9,5.62,no,2600,19830101
+Coconuts,Telesys,9.4,9.2,0.31,no,2600,19820101
+Codebreaker,Atari,5.7,6.7,2.01,no,2600,19780101
+Combat Two,Atari,7.7,7.9,0.32,no,2600,20010101
+Commando Raid,US Games,9.2,3.4,0.76,no,2600,19820101
+Communist Mutants From Space,Arcadia Corporation,6.1,8.7,0.01,no,2600,19820101
+Concentration,Atari,2.5,7.3,2.84,no,2600,19780101
+Condor Attack,Ultravision,7.2,6.0,2.64,no,2600,19830101
+Cookie Monster Munch,"Children's Computer Workshop, Inc.",7.5,7.0,1.39,no,2600,19830101
+Cosmic Commuter,Activision,8.5,4.2,2.3,no,2600,19840101
+Cosmic Corridor,Zimag,5.7,2.5,0.07,no,2600,19840101
+Cosmic Creeps,Telesys,6.4,9.2,2.42,no,2600,19820101
+Cosmic Swarm,"CommaVid, Inc.",9.6,7.4,4.8,no,2600,19820101
+Crackpots,Activision,0.8,8.3,0.73,no,2600,19830101
+Crash Dive,20th Century Fox Video Games,8.0,7.6,0.18,no,2600,19820101
+Cross Force,Spectravision,5.6,6.9,5.14,no,2600,19820101
+Crossbow,Atari,8.1,7.2,0.89,no,2600,19870101
+Cruise Missile,Froggo,8.4,8.7,0.74,no,2600,19820101
+Crypts of Chaos,20th Century Fox Video Games,7.6,8.0,1.71,no,2600,19820101
+Dancing Plates,Quelle,6.9,7.3,1.06,no,2600,19830101
+Dark Chambers,Atari,5.1,8.8,2.23,no,2600,19880101
+Demolition Herby,Telesys,8.9,4.5,1.46,no,2600,19830101
+Demons To Diamonds,Atari,6.6,6.2,1.54,no,2600,19820101
+Dice Puzzle,Panda Entertainment,8.8,4.8,0.46,no,2600,19830101
+Dishaster,Zimag,7.1,0.5,6.8,no,2600,19830101
+Dodge 'Em,Atari,6.3,8.9,3.73,no,2600,19780101
+Double Dunk,Atari,7.2,9.6,2.37,no,2600,19890101
+Double-Ender: Artillery Duel / Ghost Manor,Xonox,7.9,7.6,2.21,no,2600,19830101
+Double-Ender: Artillery Duel / Super Kung-Fu,Xonox,8.2,7.8,2.68,no,2600,19830101
+Double-Ender: Chuck Norris Superkicks / Ghost Manor,Xonox,4.2,0.5,4.07,no,2600,19830101
+Double-Ender: Chuck Norris Superkicks / Spike's Peak,Xonox,9.1,6.3,0.56,no,2600,19830101
+Double-Ender: Chuck Norris Superkicks/Artillery Duel,Xonox,6.8,5.0,0.02,no,2600,19830101
+Double-Ender: Robin Hood / Sir Lancelot,Xonox,3.4,7.3,1.67,no,2600,19830101
+Double-Ender: Spike's Peak/Artillery Duel,Xonox,2.6,8.4,3.82,no,2600,19830101
+Double-Ender: Spike's Peak/Ghost Manor,Xonox,5.6,9.2,3.32,no,2600,19830101
+Double-Ender: Super Kung-Fu/Robin Hood,Xonox,2.9,9.2,0.05,no,2600,19830101
+Double-Ender: Tomarc the Barbarian / Motocross Racer,Xonox,7.8,0.8,0.25,no,2600,19830101
+Dragonstomper,Starpath Corp.,7.0,4.8,0.46,no,2600,19820101
+Eggomania,US Games,4.0,8.3,0.38,no,2600,19820101
+Elevator Action,Taito Corporation,7.7,7.4,0.3,no,2600,20010101
+Eli's Ladder,Simage,9.2,9.2,3.11,no,2600,19820101
+Encounter At L-5,Data Age,3.1,6.8,0.35,no,2600,19820101
+Entity,CGE Services,3.2,9.0,0.8,no,2600,20030101
+Entombed,US Games,5.4,5.8,2.19,no,2600,19820101
+Escape From The Mindmaster,Starpath Corp.,7.8,9.8,3.35,no,2600,19820101
+Espial,Tigervision,7.4,8.8,0.42,no,2600,19840101
+Exocet,Panda Entertainment,7.1,7.7,2.16,no,2600,19830101
+Fast Eddie,Sirius Software,8.8,9.3,3.61,no,2600,19820101
+Fatal Run,Atari,0.1,7.8,0.48,no,2600,19900101
+Fathom,Imagic,4.2,8.0,3.39,no,2600,19830101
+Final Approach,Apollo,6.3,8.5,0.1,no,2600,19820101
+Fire Fighter,Imagic,5.7,6.6,1.43,no,2600,19820101
+Fire Fly,Mythicon,7.3,6.0,1.12,no,2600,19830101
+Flash Gordon,20th Century Fox Video Games,1.3,6.9,0.51,no,2600,19830101
+Football,Atari,7.1,8.2,1.06,no,2600,19780101
+Forest,Sancho,6.1,8.4,0.31,no,2600,19830101
+Fun With Numbers,Atari,8.8,1.7,2.63,no,2600,19770101
+G.I. Joe: Cobra Strike,Parker Bros,8.9,6.0,1.14,no,2600,19830101
+Gangster Alley,Spectravision,4.3,6.6,0.53,no,2600,19830101
+Gas Hog,Spectravision,4.2,6.2,1.57,no,2600,19830101
+Ghost Manor,Xonox,5.2,7.9,0.85,no,2600,19830101
+Glacier Patrol,Sunrise Software Inc.,7.3,8.1,3.79,no,2600,19830101
+Glib,Selchow & Righter,7.5,9.9,0.94,no,2600,19830101
+Golf,Atari,1.7,4.7,0.14,no,2600,19780101
+Gopher,US Games,4.4,4.1,1.27,no,2600,19820101
+Gorf,CBS Electronics,7.9,9.1,3.97,no,2600,19820101
+Great Escape,Bomb,6.8,7.4,2.16,no,2600,19830101
+Guardian,Apollo,8.7,8.9,0.71,no,2600,19820101
+Gunslinger,"Telegames, Inc.",3.5,7.9,0.59,no,2600,19780101
+Gyruss,Parker Bros,8.0,9.9,0.25,no,2600,19840101
+H.E.R.O.,Activision,1.2,7.2,0.15,no,2600,19840101
+Harbor Escape,Panda Entertainment,5.9,8.2,0.71,no,2600,19830101
+Haunted House,Atari,7.8,7.5,1.78,no,2600,19810101
+Hot Action Pack,HES Interactive,8.2,8.0,0.87,no,2600,19900101
+Human Cannonball,Atari,6.2,7.0,2.87,no,2600,19780101
+Hunt & Score,Atari,7.3,4.1,0.31,no,2600,19800101
+I Want My Mommy,Zimag,1.0,8.6,0.2,no,2600,19830101
+Ikari Warriors,Data East,7.5,2.3,0.02,no,2600,19890101
+Infiltrate,Apollo,7.4,6.9,12.24,no,2600,19820101
+James Bond 007,Parker Brothers,8.4,4.8,1.13,no,2600,19830101
+Journey Escape,Data Age,3.3,9.0,2.31,no,2600,19820101
+Jungle Fever/Knight on the Town,Playaround,5.0,5.9,1.76,no,2600,19820101
+Killer Satellites,Starpath Corp.,5.4,7.9,2.66,no,2600,19830101
+Kool-Aid Man,Mattel,7.4,7.1,1.27,no,2600,19830101
+Kung Fu Superkicks: Pursuit of The Ninja,"Telegames, Inc.",6.2,9.5,7.34,no,2600,19870101
+Laser Gates,Imagic,2.4,8.9,1.67,no,2600,19830101
+Laser Volley,Zellers,3.7,8.7,1.89,no,2600,19830101
+Lilly Adventure,Quelle,6.4,7.7,4.83,no,2600,19830101
+Lochjaw,Apollo,8.9,8.0,0.43,no,2600,19810101
+Lock 'N' Chase,Mattel,7.1,5.8,0.3,no,2600,19820101
+London Blitz,Avalon Hill,8.2,8.7,0.34,no,2600,19830101
+Lost Luggage,Apollo,2.0,8.6,0.07,no,2600,19820101
+M*A*S*H,20th Century Fox,7.1,5.0,0.19,no,2600,19830101
+MAD,US Games,5.9,7.9,2.23,no,2600,19820101
+MagiCard,"CommaVid, Inc.",7.4,9.3,0.34,no,2600,19820101
+Malagai,Answer Software,8.6,9.5,2.07,no,2600,19830101
+Mangia',Spectravision,7.3,8.5,0.93,no,2600,19830101
+Marauder,Tigervision,6.4,4.6,0.63,no,2600,19820101
+Marine Wars,Konami,8.3,8.5,0.15,no,2600,19830101
+Master Builder,Spectravision,3.0,8.6,1.93,no,2600,19830101
+Masters of the Universe: Power of He-Man,Mattel,7.5,7.6,0.64,no,2600,19830101
+Math Gran Prix,Atari,4.3,2.6,4.39,no,2600,19820101
+Maze,Telegames,6.4,4.9,1.49,no,2600,19780101
+Maze Mania: A Game of Cops 'n Robbers,Atari,8.6,8.8,4.62,no,2600,19780101
+Megaforce,20th Century Fox Video Games,8.7,5.8,0.78,no,2600,19820101
+Megamania,Activision,7.2,8.5,0.86,no,2600,19830101
+Memory Match,Telegames,5.7,9.7,0.69,no,2600,19780101
+Miner 2049er,Tigervision,8.1,7.3,3.16,no,2600,19830101
+Miner 2049er Volume II,Tigervision,8.3,6.5,1.9,no,2600,19830101
+Mines of Minos,"CommaVid, Inc.",7.6,8.5,0.91,no,2600,19820101
+Miniature Golf,Atari,5.8,8.8,5.11,no,2600,19790101
+Mission 3000,Quelle,9.0,6.8,6.22,no,2600,19830101
+Mission 3000 A.D.,Quelle,5.3,9.8,6.42,no,2600,19830101
+Mission Survive,Video Gems,5.1,7.7,0.08,no,2600,19830101
+Mogul Maniac,Amiga,3.8,7.7,0.56,no,2600,19820101
+Montezuma's Revenge featuring Panama Joe,Parker Bros,8.9,6.0,0.16,no,2600,19840101
+Moonsweeper,Imagic,8.9,6.1,0.0,no,2600,19830101
+Moto Rodeo,Axlon,0.7,9.0,0.45,no,2600,19900101
+Motocross Racer,Xonox,3.3,8.8,3.62,no,2600,19840101
+Mr. Postman,Bit Corporation,5.9,8.5,3.13,no,2600,19830101
+Name This Game,US Games,8.8,7.2,5.24,no,2600,19840101
+Night Driver,Atari,8.9,4.4,1.58,no,2600,19780101
+Nightmare,Sancho,8.0,7.2,2.52,no,2600,19830101
+No Escape!,Imagic,5.2,7.9,0.08,no,2600,19830101
+Obelix,Atari,6.2,6.6,2.88,no,2600,19860101
+Ocean City Defender,Zellers,2.1,9.3,0.64,no,2600,20090101
+Octopus,Carrere Video,1.0,9.6,2.42,no,2600,19820101
+Off The Wall,Atari,5.6,5.7,0.16,no,2600,19890101
+Oink!,Activision,7.5,8.8,6.84,no,2600,19820101
+Omega Race,CBS Electronics,6.6,6.0,1.29,no,2600,19830101
+Oscar's Trash Race,Atari,5.8,8.8,1.02,no,2600,19830101
+Othello,Atari,5.8,9.5,0.83,no,2600,19780101
+Out Of Control,Avalon Hill,2.6,4.4,1.07,no,2600,19830101
+Outer Space,Telegames,0.4,7.4,5.74,no,2600,19780101
+Outlaw,Atari,3.7,9.5,0.17,no,2600,19780101
+Pac-Kong,Goliath Video System,9.0,7.6,0.24,no,2600,19830101
+Party Mix,Starpath Corp.,7.7,4.8,0.65,no,2600,19830101
+Pele's Championship Soccer,Atari,9.0,4.9,1.61,no,2600,19800101
+Pepsi Invaders,Atari,9.3,6.8,5.33,no,2600,19830101
+Personal Game Programmer,Answer Software,5.1,9.1,0.37,no,2600,19830101
+Pete Rose Baseball,Absolute Entertainment,5.1,4.3,0.48,no,2600,19880101
+Phaser Patrol,Arcadia,8.3,9.0,0.3,no,2600,19820101
+Pick 'n Pile,Salu,7.9,7.1,0.75,no,2600,20040101
+Picnic,US Games,5.8,3.5,0.02,no,2600,19820101
+Piece O'Cake,US Games,3.3,8.8,1.64,no,2600,19820101
+Pigs in Space,Atari,5.5,7.6,4.03,no,2600,19830101
+Pinball,Zellers,6.2,9.5,2.37,no,2600,20060101
+Planet Patrol,Spectravision,6.2,6.5,0.95,no,2600,19830101
+Plaque Attack,Activision,8.6,6.4,2.22,no,2600,19830101
+Poker Plus,Telegames,9.0,9.3,0.59,no,2600,19780101
+Pong Sports,Telegames,5.4,9.9,0.03,no,2600,19770101
+Pooyan,Konami,1.0,8.7,1.94,no,2600,19820101
+Private Eye,Activision,7.1,3.6,3.55,no,2600,19830101
+Q*bert's Qubes,Parker Bros,0.1,3.0,1.47,no,2600,19840101
+Qb,XYPE,4.8,8.5,0.11,no,2600,20010101
+Quadrun,Atari,9.0,6.9,1.19,no,2600,19830101
+Quest For Quintana Roo,Sunrise Software Inc.,6.8,7.8,2.83,no,2600,19840101
+Quick Step,Imagic,7.4,7.8,1.45,no,2600,19830101
+Rabbit Transit,Starpath Corp.,7.7,6.7,0.2,no,2600,19830101
+Race: Auto Racing,Telegames,1.0,9.1,1.75,no,2600,19770101
+Racing Pak,Atari,6.5,8.8,4.81,no,2600,19780101
+Racquetball,Apollo,8.0,9.9,0.31,no,2600,19810101
+Radar Lock,Atari,7.2,7.6,6.37,no,2600,19890101
+Raft Rider,US Games,6.2,8.7,6.15,no,2600,19820101
+Ram It,Telesys,3.5,8.3,1.34,no,2600,19820101
+RealSports Basketball,Atari,3.4,6.5,1.42,no,2600,20020101
+RealSports Soccer,Atari,8.9,6.7,1.31,no,2600,19830101
+Rescue Terra I,Venture Vision,7.4,1.6,7.76,no,2600,19820101
+Revenge of The Beefsteak Tomatoes,20th Century Fox Video Games,3.2,8.4,0.23,no,2600,19830101
+Riddle of The Sphinx,Imagic,7.1,6.5,1.82,no,2600,19820101
+River Patrol,Tigervision,8.5,8.1,2.04,no,2600,19840101
+Road Runner,Atari,7.7,4.4,0.66,no,2600,19890101
+Robin Hood,Xonox,8.9,3.0,1.14,no,2600,19830101
+Robot Commando Raid,Vidtec,3.7,9.3,1.38,no,2600,19820101
+Robot Tank,Activision,8.6,0.6,3.81,no,2600,19830101
+Roc'N Rope,Coleco,9.4,8.0,1.07,no,2600,19840101
+Rock 'N Roll Escape,Imagic,8.7,9.6,1.0,no,2600,19830101
+Room of Doom,"CommaVid, Inc.",0.5,6.4,7.71,no,2600,19820101
+Rubik's Cube,Atari,4.9,0.7,1.56,no,2600,19830101
+Scuba Diver,Panda Entertainment,7.3,7.5,1.52,no,2600,19830101
+Sea Battle,INTV,8.2,7.8,8.42,no,2600,20000101
+Sea Dragon,Adventure International,8.0,4.1,1.19,no,2600,20080101
+Sea Hawk,Froggo,9.0,9.0,0.31,no,2600,19820101
+Sea Hunt,Froggo,5.8,8.1,4.2,no,2600,19780101
+Sea Monster,Bit Corp.,5.3,6.8,0.24,no,2600,19830101
+Seaquest,Activision,7.0,9.3,3.58,no,2600,19830101
+Secret Quest,Axlon,1.3,9.5,0.32,no,2600,19890101
+Sentinel,Atari,7.9,7.9,3.22,no,2600,19900101
+Shootin' Gallery,Imagic,5.6,6.4,0.8,no,2600,19820101
+Shuttle Orbiter,Avalon Hill,7.6,6.4,2.64,no,2600,19830101
+Sir Lancelot,Xonox,5.4,7.1,2.42,no,2600,19830101
+Skate Boardin': A Radical Adventure,Absolute Entertainment,8.8,8.3,5.15,no,2600,19870101
+Skeet Shoot,Apollo,5.7,6.2,1.39,no,2600,19810101
+Ski Hunt,Homevision,5.2,0.2,3.8,no,2600,19830101
+Skiing,Activision,3.9,2.1,5.91,no,2600,19800101
+Skin Diver,Sancho,0.3,1.0,1.6,no,2600,19830101
+Sky Diver,Atari,8.3,9.0,3.14,no,2600,19780101
+Sky Jinks,Activision,1.8,1.1,3.49,no,2600,19820101
+Sky Skipper,Parker Bros.,5.1,0.9,1.51,no,2600,19830101
+Slot Racers,Atari,6.4,8.6,1.08,no,2600,19780101
+Slots,Telegames,6.3,9.7,0.56,no,2600,19780101
+Smurfs Save The Day,Coleco,6.5,6.8,1.11,no,2600,19830101
+Snail Against Squirrel,Bit Corporation,6.8,9.4,1.73,no,2600,19830101
+Sneak 'N Peek,US Games,9.1,8.1,1.93,no,2600,19820101
+Snoopy & The Red Baron,Atari,5.2,9.5,3.5,no,2600,19830101
+Solar Fox,Bally Midway,3.3,6.0,0.08,no,2600,19830101
+Solar Storm,Imagic,7.7,5.3,5.39,no,2600,19830101
+Sorcerer,Mythicon,7.3,9.3,0.81,no,2600,19830101
+Sorcerer's Apprentice,Atari,7.4,6.1,0.88,no,2600,19830101
+SoundX,Ed Federmeyer,7.8,8.7,1.88,no,2600,19940101
+Space Attack,Mattel,8.9,9.6,0.78,no,2600,19820101
+Space Canyon,Apollo,9.4,8.5,3.1,no,2600,19820101
+Space Cavern,Apollo,7.7,4.6,2.37,no,2600,19810101
+Space Combat,Telegames,8.4,5.5,4.43,no,2600,20150101
+Space Jockey,US Games,5.5,9.7,0.1,no,2600,19820101
+Space Shuttle: A Journey Into Space,Activision,6.6,8.5,0.28,no,2600,19830101
+Space Tunnel,Bit Corp.,8.0,9.9,2.07,no,2600,19830101
+Space War,Atari,2.7,7.1,0.07,no,2600,19780101
+Spacechase,Apollo,0.9,7.7,3.49,no,2600,19810101
+Spacemaster X-7,Sirius Software,7.2,6.6,2.96,no,2600,19830101
+Speedway II,Telegames,5.2,6.7,2.22,no,2600,19780101
+Spider Fighter,Activision,6.6,6.2,1.54,no,2600,19830101
+Spiderdroid,Froggo,9.1,9.1,4.89,no,2600,19830101
+Spike's Peak,Atari,5.7,5.2,0.59,no,2600,19830101
+Spitfire Attack,Milton Bradley,6.7,7.2,2.17,no,2600,19830101
+Sports Action Pack,Activision,1.0,2.0,1.19,no,2600,19880101
+Springer,Tigervision,6.5,9.2,3.33,no,2600,19820101
+Sprintmaster,Atari,8.1,6.7,2.29,no,2600,19880101
+Spy Hunter,Bally Midway,5.2,7.6,0.73,no,2600,19830101
+Squeeze Box,US Games,7.9,7.2,2.2,no,2600,19820101
+Sssnake,Data Age,7.5,5.2,0.69,no,2600,19820101
+Stampede,Activision,8.7,7.2,1.81,no,2600,19810101
+Star Fox,Mythicon,6.5,4.6,5.64,no,2600,19830101
+Star Raiders,Atari,7.9,4.2,2.26,no,2600,19820101
+Star Ship,Atari,6.9,7.3,0.22,no,2600,19770101
+Star Strike,Mattel Interactive,7.2,4.5,0.23,no,2600,19820101
+Star Trek: Strategic Operations Simulator,Sega,1.5,6.8,1.54,no,2600,19830101
+Star Voyager,Imagic,7.9,5.6,0.59,no,2600,19820101
+Star Wars Return of The Jedi: Death Star Battle,Parker Bros,6.3,9.2,1.78,no,2600,19830101
+Star Wars: Jedi Arena,Parker Bros,6.2,7.2,0.1,no,2600,19830101
+Star Wars: The Arcade Game,Parker Bros,5.5,5.7,1.74,no,2600,19830101
+Star Wars: The Empire Strikes Back,Parker Bros,7.4,5.4,1.38,no,2600,19820101
+Stargate,Atari,5.8,4.0,1.96,no,2600,19840101
+Stargunner,Telesys,1.1,9.6,1.18,no,2600,19820101
+Starmaster,Activision,5.4,8.3,0.56,no,2600,19820101
+Steeplechase,Sears,0.8,6.9,1.91,no,2600,19810101
+Stellar Track,Sears,9.3,7.5,4.54,no,2600,19810101
+Strategy X,Konami,5.7,1.2,3.88,no,2600,19810101
+Strawberry Shortcake: Musical Match-ups,Parker Bros,6.9,9.7,0.19,no,2600,19830101
+Street Racer,Atari,8.4,8.1,2.43,no,2600,19780101
+Stronghold,"CommaVid, Inc.",7.4,9.6,1.83,no,2600,19830101
+Stuntman,Panda Entertainment,1.0,8.1,1.88,no,2600,19830101
+Sub Scan,Sega,3.6,4.1,1.84,no,2600,19820101
+Submarine Commander,Sears,8.0,4.0,0.4,no,2600,19820101
+Subterranea,Imagic,8.5,3.4,3.46,no,2600,19830101
+Suicide Mission,Starpath Corp.,0.1,3.5,4.12,no,2600,19830101
+Summer Games,Epyx,1.2,9.0,0.78,no,2600,19870101
+Super Action Pack,Activision,8.9,8.5,1.28,no,2600,19880101
+Super Challenge Baseball,Mattel,8.5,9.6,0.01,no,2600,19820101
+Super Challenge Football,Mattel,4.6,8.4,1.09,no,2600,19820101
+Super Cobra,Parker Bros,9.4,4.9,2.91,no,2600,19830101
+Superman,Atari,8.9,9.8,0.63,no,2600,19780101
+Surfer's Paradise but Danger below!,Video Gems,8.5,6.5,0.4,no,2600,19830101
+Surround,Atari,6.5,7.6,0.08,no,2600,19780101
+Survival Island,Starpath Corp.,5.1,5.2,0.81,no,2600,19830101
+Survival Run,Milton Bradley,6.7,9.0,0.45,no,2600,19830101
+Sword of Saros,Starpath Corp.,5.9,7.4,0.54,no,2600,19830101
+Swordfight,INTV,7.9,8.5,0.86,no,2600,20000101
+Swordquest: EarthWorld,Atari,7.1,8.2,0.75,no,2600,19820101
+Swordquest: FireWorld,Atari,6.5,6.8,0.78,no,2600,19820101
+Swordquest: WaterWorld,Atari,6.9,8.7,0.17,no,2600,19830101
+Tac-Scan,Sega,1.7,9.2,0.18,no,2600,19820101
+Tanks But No Tanks,Zimag,5.7,8.3,1.56,no,2600,19820101
+Tape Worm,Spectravision,9.2,7.3,0.33,no,2600,19820101
+Tapper,Sega,8.2,9.8,0.56,no,2600,19830101
+Task Force,Froggo,6.5,8.8,6.51,no,2600,19830101
+Tax Avoiders,Dunhill Electronics,6.3,4.8,2.29,no,2600,19820101
+Taz,Atari,5.4,7.8,2.29,no,2600,19830101
+Tennis,Activision,7.9,6.0,0.92,no,2600,19810101
+Texas Chainsaw Massacre,Wizard Video Games,7.8,9.3,0.15,no,2600,19830101
+The Challenge of... Nexar,Spectravision,4.3,7.8,0.09,no,2600,19820101
+The Earth Dies Screaming,20th Century Fox Video Games,9.6,7.8,1.07,no,2600,19830101
+The Music Machine,Sparrow,3.4,6.9,6.29,no,2600,19830101
+Threshold,Tigervision,6.0,7.7,2.36,no,2600,19820101
+Thunderground,Sega,6.1,9.3,1.99,no,2600,19830101
+Time Pilot,Konami,7.2,7.2,0.05,no,2600,19830101
+Time Warp,Zellers,8.4,7.5,1.03,no,2600,19910101
+Title Match Pro Wrestling,Absolute Entertainment,0.8,8.0,0.51,no,2600,19870101
+Tomarc The Barbarian,Xonox,4.4,7.4,0.9,no,2600,19830101
+Tomcat: The F-14 Fighter Simulator,Absolute Entertainment,2.4,9.0,0.06,no,2600,19880101
+Towering Inferno,US Games,1.9,8.0,1.4,no,2600,19820101
+Track & Field,Konami,8.3,8.1,0.24,no,2600,19840101
+Trick Shot,Imagic,8.5,8.4,0.29,no,2600,19820101
+Tron Deadly Discs,Mattel Interactive,7.2,7.9,0.12,no,2600,19820101
+Tunnel Runner,CBS Electronics,7.9,4.8,0.13,no,2600,19830101
+Turmoil,20th Century Fox Video Games,2.9,7.3,0.29,no,2600,19820101
+Tutankham,Parker Bros,0.2,9.5,0.1,no,2600,19820101
+Universal Chaos,"Telegames, Inc.",6.0,2.9,0.38,no,2600,19880101
+Up 'n Down,Sega,9.7,7.0,1.9,no,2600,19840101
+Vanguard,Atari,8.5,6.5,1.12,no,2600,19820101
+Venture,Coleco,5.7,7.3,6.35,no,2600,19820101
+Video Checkers,Atari,0.6,7.2,1.14,no,2600,19780101
+Video Chess,Atari,0.4,3.7,0.58,no,2600,19780101
+Video Jogger,Exus,5.0,0.8,2.07,no,2600,19830101
+Video Life,"CommaVid, Inc.",9.0,9.1,0.97,no,2600,19820101
+Video Olympics,Atari,2.3,8.4,2.0,no,2600,19770101
+Video Pinball,Atari,6.7,7.6,1.06,no,2600,19810101
+Video Reflex,Exus,4.3,8.5,1.39,no,2600,19830101
+Vulture Attack,K-Tel Vision,1.7,9.0,1.1,no,2600,20060101
+Wabbit,Apollo,7.3,8.5,1.44,no,2600,19820101
+Wall Ball,Avalon Hill,6.9,9.5,1.81,no,2600,19830101
+Wall Defender,Bomb,7.0,6.5,6.22,no,2600,19830101
+Warlords,Atari,3.9,6.7,1.7,no,2600,19810101
+Warplock,Data Age,5.0,1.8,4.7,no,2600,19820101
+Wing War,Imagic,7.0,6.7,0.29,no,2600,19830101
+Winter Games,Epyx,7.2,5.1,0.22,no,2600,19870101
+Wizard of Wor,CBS Electronics,6.7,4.5,2.74,no,2600,19820101
+Word Zapper,Vidtec,4.4,9.5,0.35,no,2600,19820101
+Worm War I,Sirius (Japan),3.6,8.3,4.07,no,2600,19820101
+Xenophobe,Atari,7.9,6.0,2.35,no,2600,19900101
+Z-Tack,Bomb,7.6,8.9,1.47,no,2600,19830101
+Zaxxon,Coleco,8.4,7.9,2.4,no,2600,19820101
+DatabaseTestingEU,TalonSoft,7.8,8.7,1.0,no,2600,20140101
+DatabaseTestingJP,TalonSoft,7.6,9.0,0.32,no,2600,20170101

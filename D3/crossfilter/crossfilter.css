@@ -1,0 +1,125 @@
+#charts {
+  padding: 10px 0;
+}
+
+.chart {
+  display: inline-block;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.reset {
+  padding-left: 1em;
+  font-size: smaller;
+  color: #ccc;
+}
+
+.background.bar {
+  fill: #FFB440;
+}
+
+.foreground.bar {
+  fill: #FF8240;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.brush rect.extent {
+  fill: #FF8240;
+  fill-opacity: .125;
+}
+
+.brush .resize path {
+  fill: #eee;
+  stroke: #666;
+}
+
+#hour-chart {
+  width: 30vw;
+}
+
+#ucs-chart {
+  width: 30vw;
+}
+
+#sale-chart {
+  width: 30vw;
+}
+
+#date-chart {
+  width: 95vw;
+}
+
+#game-list {
+  min-height: 1024px;
+}
+
+#game-list .date,
+#game-list .day {
+  margin-bottom: .4em;
+  font-weight: bold;
+}
+
+#game-list .game {
+  line-height: 1.5em;
+  background: #eee;
+  width: 90vw;
+  margin-bottom: 1px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+#game-list .unknown {
+  color: #999;
+}
+#game-list .no {
+  color: #999;
+}
+
+#game-list .game div {
+  display: inline-block;
+  width: 100px;
+}
+
+#game-list div.time{
+  width: 30vw;
+  text-align: left; 
+}
+#game-list div.developer {
+  width: 20vw;
+  text-align: left; 
+}
+#game-list div.rating {
+  width: 5vw
+}
+#game-list div.sale {
+  width: 10vw;
+  text-align: left; 
+}
+#game-list div.ucs {
+  width: 10vw;
+  padding-right: 15px;
+}
+
+#game-list .worst {
+  color: rgb(255, 60, 0);
+}
+#game-list .best {
+  color: rgb(0, 255, 55);
+}
+
+aside {
+  position: absolute;
+  left: 50vw;
+  font-weight: bold;
+  width: 50vw;
+}

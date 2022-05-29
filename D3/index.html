@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="crossfilter/crossfilter.css">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="D3.css">
+        <link rel="stylesheet" href="chart/chart.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>zer0deck (Aleksei Grandilevskii)</title>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+    </head>
+    <body>
+        <header class="header">
+            <nav class="nav">
+                <a class="nav_link" href="#">Main</a>
+                <a class="nav_link" href="#">About me</a>
+                <a class="nav_link" href="#">Services</a>
+            </nav>
+        </header>
+        <div id="mainContainer" class="page">
+            <section id="Section_1" class="section">
+                <h2 class="section_title">D3 visualisation</h2>
+                <div id="chartId">
+                    <svg id="bubble-chart"></svg>
+                    <div class="tooltip">
+                        <img alt="" />
+                        <div>
+                            <a></a>
+                            <span></span>
+                        </div>
+                </div>
+                </div>
+            </section>
+            <section class="section  section--gray">
+                <h2 class="section_title">Platform</h2>
+
+                <div class="tab">
+                    <button class="tablinks" onclick="openTab(event, 'Platform stats')">Platform stats</button>
+                    <button class="tablinks" onclick="openTab(event, 'Top games')">Top games</button>
+                    <button class="tablinks" onclick="openTab(event, 'Publishers')">Publishers</button>
+                    <button class="tablinks" onclick="openTab(event, 'Ranks')" id="defaultOpen">Ranks</button>
+                </div>
+
+                <div id="Platform stats" class="tabcontent">
+                    <p>Some content</p>
+                </div>
+                
+                <div id="Top games" class="tabcontent">
+                    <p>Some content</p>
+                </div>
+                
+                <div id="Publishers" class="tabcontent">
+                    <p>Some content</p>
+                </div>
+
+                <div id="Ranks" class="tabcontent">
+                    <div id="charts">
+                        <div id="hour-chart" class="chart">
+                          <div class="title">Time of Day</div>
+                        </div>
+                        <div id="ucs-chart" class="chart">
+                          <div class="title">User-Critics Rating Difference</div>
+                        </div>
+                        <div id="sale-chart" class="chart">
+                          <div class="title">Sales (mil.)</div>
+                        </div>
+                        <div id="date-chart" class="chart">
+                          <div class="title">Year</div>
+                        </div>
+                      </div>
+                      
+                      <aside id="totals"></aside>
+                      
+                      <div id="lists">
+                        <div id="game-list" class="list"></div>
+                      </div>
+                </div>
+            </section>
+        </div>
+
+        <script src="D3.js"></script>
+        <!-- d3visualization -->
+        <script src="https://d3js.org/d3.v6.js"></script>
+        <script src="chart/charts.js"></script>
+        <script src="crossfilter/crossfilter.v1.min.js"></script>
+        <script src="crossfilter/crossfilter.js" type="module"></script>
+        <script>
+            document.getElementById("defaultOpen").click();
+        </script>
+    </body>
+</html>

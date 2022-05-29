@@ -1,1 +1,1 @@
-# personal_page
+Avialable at [zer0deck.ru](zerodeck.ru/D3)
