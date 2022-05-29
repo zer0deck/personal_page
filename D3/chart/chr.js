@@ -55,8 +55,7 @@ const generateChart = data => {
         .on('mouseout', function () {
             d3.select(this).style('stroke', 'none');
             return tooltip.style('visibility', 'hidden');
-        })
-        .on('click', (e, d) => CRF(d.data.link));
+        });
     
     const label = node.append('text')
         .attr('dy', 2)

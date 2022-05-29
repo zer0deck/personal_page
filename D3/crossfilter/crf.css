@@ -15,7 +15,7 @@
 }
 
 .background.bar {
-  fill: #FFB440;
+  fill: #4186D3;
 }
 
 .foreground.bar {
@@ -39,7 +39,7 @@
 
 .brush .resize path {
   fill: #eee;
-  stroke: #666;
+  stroke: #584CD8;
 }
 
 #hour-chart {
@@ -111,10 +111,10 @@
 }
 
 #game-list .worst {
-  color: rgb(255, 60, 0);
+  color: #FF8240;
 }
 #game-list .best {
-  color: rgb(0, 255, 55);
+  color: #35D4A4;
 }
 
 aside {

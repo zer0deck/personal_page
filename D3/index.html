@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-    <link rel="stylesheet" href="crossfilter/crossfilter.css">
+    <link rel="stylesheet" href="crossfilter/crf.css">
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="D3.css">
-        <link rel="stylesheet" href="chart/chart.css">
+        <link rel="stylesheet" href="chart/chr.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>zer0deck (Aleksei Grandilevskii)</title>
+        <title>D3 Visualisation Lab</title>
         <script src="https://d3js.org/d3.v7.min.js"></script>
     </head>
     <body>
@@ -19,7 +19,7 @@
         </header>
         <div id="mainContainer" class="page">
             <section id="Section_1" class="section">
-                <h2 class="section_title">D3 visualisation</h2>
+                <h2 class="section_title">Platforms</h2>
                 <div id="chartId">
                     <svg id="bubble-chart"></svg>
                     <div class="tooltip">
@@ -32,34 +32,13 @@
                 </div>
             </section>
             <section class="section  section--gray">
-                <h2 class="section_title">Platform</h2>
-
-                <div class="tab">
-                    <button class="tablinks" onclick="openTab(event, 'Platform stats')">Platform stats</button>
-                    <button class="tablinks" onclick="openTab(event, 'Top games')">Top games</button>
-                    <button class="tablinks" onclick="openTab(event, 'Publishers')">Publishers</button>
-                    <button class="tablinks" onclick="openTab(event, 'Ranks')" id="defaultOpen">Ranks</button>
-                </div>
-
-                <div id="Platform stats" class="tabcontent">
-                    <p>Some content</p>
-                </div>
-                
-                <div id="Top games" class="tabcontent">
-                    <p>Some content</p>
-                </div>
-                
-                <div id="Publishers" class="tabcontent">
-                    <p>Some content</p>
-                </div>
-
-                <div id="Ranks" class="tabcontent">
+                <h2 class="section_title">Stats</h2>
                     <div id="charts">
                         <div id="hour-chart" class="chart">
-                          <div class="title">Time of Day</div>
+                          <div class="title">User Rating</div>
                         </div>
                         <div id="ucs-chart" class="chart">
-                          <div class="title">User-Critics Rating Difference</div>
+                          <div class="title">Critics Rating</div>
                         </div>
                         <div id="sale-chart" class="chart">
                           <div class="title">Sales (mil.)</div>
@@ -74,18 +53,15 @@
                       <div id="lists">
                         <div id="game-list" class="list"></div>
                       </div>
-                </div>
+                
             </section>
         </div>
 
         <script src="D3.js"></script>
         <!-- d3visualization -->
         <script src="https://d3js.org/d3.v6.js"></script>
-        <script src="chart/charts.js"></script>
+        <script src="chart/chr.js"></script>
         <script src="crossfilter/crossfilter.v1.min.js"></script>
-        <script src="crossfilter/crossfilter.js" type="module"></script>
-        <script>
-            document.getElementById("defaultOpen").click();
-        </script>
+        <script src="crossfilter/crf.js" type="module"></script>
     </body>
 </html>

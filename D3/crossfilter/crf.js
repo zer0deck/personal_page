@@ -364,7 +364,3 @@ function CRF(path) {
 }
 
 CRF('../data/D3/crossfilter/second_data.csv')
-
-document.querySelectorAll('g').forEach(item => {
-  item.addEventListener('click', console.log(sessionStorage.getItem('csvPath')))
-  })
