@@ -1,4 +1,5 @@
 /* Bubble chart */
+
 circle {
     cursor: pointer;
 }
@@ -13,6 +14,10 @@ a {
     display: block;
 }
 
+text {
+    text-anchor: middle;
+}
+
 span {
     display: inline-block;
     margin-top: 5px;
@@ -22,15 +27,29 @@ span {
     font-size: 14px;
 }
 
-.Portable { background: #FF8240; }
-.Console  { background: #FFB440; }
-.PC   { background: #4186D3; }
-.Mobile  { background: #35D4A4; }
-.Web  { background: #584CD8; }
+.Portable {
+    background: #FF8240;
+}
+
+.Console {
+    background: #FFB440;
+}
+
+.PC {
+    background: #4186D3;
+}
+
+.Mobile {
+    background: #35D4A4;
+}
+
+.Web {
+    background: #584CD8;
+}
 
 .tooltip {
     position: absolute;
-    visibility: hidden;
+    visibility: visible;
     background-color: white;
     display: flex;
     font-family: sans-serif;

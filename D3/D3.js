@@ -1,11 +1,12 @@
 // prototypes
 
-String.prototype.format = function () {
-    var i = 0, args = arguments;
-    return this.replace(/{}/g, function () {
-      return typeof args[i] != 'undefined' ? args[i++] : '';
+String.prototype.format = function() {
+    var i = 0,
+        args = arguments;
+    return this.replace(/{}/g, function() {
+        return typeof args[i] != 'undefined' ? args[i++] : '';
     });
-  };
+};
 
 // selectors
 
@@ -14,7 +15,7 @@ const navLinks = document.querySelectorAll(".nav_link")
 
 
 // functions
-function headerColorChanger () {
+function headerColorChanger() {
     let scrollPos = window.scrollY
     if (scrollPos > 0) {
         header.classList.add('scroll');
@@ -48,8 +49,7 @@ document.addEventListener("DOMContentLoaded", headerColorChanger);
 
 
 for (let navLink of navLinks) {
-    navLink.addEventListener("click", function ()
-    {
+    navLink.addEventListener("click", function() {
         console.log(navLink.text);
     });
 }
