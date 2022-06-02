@@ -30,7 +30,7 @@ const generateChart = data => {
         .on('mouseover', function(e, d) {
             tooltip.select('img').attr('src', d.data.img);
             tooltip.select('a').text('{} \r\n value: {}'.format(d.data.full_name, d.data.score))
-            tooltip.select('span').attr('class', d.data.category).text(d.data.category);
+            tooltip.select('tlspan').attr('class', d.data.category).text(d.data.category);
             tooltip.style('visibility', 'visible');
 
             d3.select(this).style('stroke', '#222');

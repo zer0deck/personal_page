@@ -10,7 +10,6 @@ img {
 
 a {
     color: black;
-    font-weight: bold;
     display: block;
 }
 
@@ -18,7 +17,7 @@ text {
     text-anchor: middle;
 }
 
-span {
+tlspan {
     display: inline-block;
     margin-top: 5px;
     padding: 2px 10px;
