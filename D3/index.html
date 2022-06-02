@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
     <!-- Custom styles -->
     <link rel="stylesheet" href="../data/assets/css/style.css">
+    <link rel="stylesheet" href="crossfilter/crf.css">
     <link rel="stylesheet" href="chart/chr.css">
 
     <!--[if lt IE 9]> <script src="assets/js/html5shiv.js"></script> <![endif]-->
@@ -93,6 +94,28 @@
                         nesciunt unde veniam magnam repudiandae sapiente.</p>
                     <h3>Necessitatibus</h3>
                     <p>Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore</p>
+
+                    <div id="charts">
+                        <div id="hour-chart" class="chart">
+                            <div class="title">User Rating</div>
+                        </div><br>
+                        <div id="ucs-chart" class="chart">
+                            <div class="title">Critics Rating</div>
+                        </div><br>
+                        <div id="sale-chart" class="chart">
+                            <div class="title">Sales (mil.)</div>
+                        </div><br>
+                        <div id="date-chart" class="chart">
+                            <div class="title">Year</div>
+                        </div>
+                    </div>
+
+                    <!-- <aside id="totals"></aside> -->
+
+                    <div id="lists">
+                        <div id="game-list" class="list"></div>
+                    </div>
+
                     <blockquote>Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ration</blockquote>
                     <p>Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore</p>
                     <ul>
@@ -199,6 +222,8 @@
     <script src="../data/assets/js/templt.js"></script>
     <script src="https://d3js.org/d3.v6.js"></script>
     <script src="chart/chr.js"></script>
+    <script src="crossfilter/crossfilter.v1.min.js"></script>
+    <script src="crossfilter/crf.js" type="module"></script>
 </body>
 
 </html>

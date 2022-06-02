@@ -1,125 +1,169 @@
 #charts {
-  padding: 10px 0;
+    padding: 10px 0;
 }
 
 .chart {
-  display: inline-block;
-  height: 150px;
-  margin-bottom: 20px;
+    display: inline-block;
+    height: 150px;
+    margin-bottom: 20px;
 }
 
 .reset {
-  padding-left: 1em;
-  font-size: smaller;
-  color: #ccc;
+    padding-left: 1em;
+    font-size: smaller;
+    color: #ccc;
 }
 
 .background.bar {
-  fill: #4186D3;
+    fill: #4186D3;
 }
 
 .foreground.bar {
-  fill: #FF8240;
+    fill: #FF8240;
 }
 
-.axis path, .axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
 }
 
 .axis text {
-  font: 10px sans-serif;
+    font: 10px sans-serif;
 }
 
 .brush rect.extent {
-  fill: #FF8240;
-  fill-opacity: .125;
+    fill: #FF8240;
+    fill-opacity: .125;
 }
 
 .brush .resize path {
-  fill: #eee;
-  stroke: #584CD8;
+    fill: #eee;
+    stroke: #584CD8;
 }
 
 #hour-chart {
-  width: 30vw;
+    width: 20vw;
 }
 
 #ucs-chart {
-  width: 30vw;
+    width: 20vw;
 }
 
 #sale-chart {
-  width: 30vw;
+    width: 20vw;
 }
 
 #date-chart {
-  width: 95vw;
+    width: 95vw;
 }
 
-#game-list {
-  min-height: 1024px;
+@media screen and (min-width: 801px) {
+    #game-list {
+        min-height: 1024px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #game-list .date,
+    #game-list .day {
+        margin-bottom: .4em;
+        font-weight: bold;
+    }
+    #game-list .game {
+        line-height: 1.5em;
+        background: #eee;
+        width: 85vw;
+        margin-bottom: 1px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #game-list .unknown {
+        color: #999;
+    }
+    #game-list .no {
+        color: #999;
+    }
+    #game-list .game div {
+        display: inline-block;
+        width: 100px;
+    }
+    #game-list div.time {
+        width: 30vw;
+        text-align: left;
+        text-indent: 15px;
+    }
+    #game-list div.developer {
+        width: 20vw;
+        text-align: left;
+    }
+    #game-list div.rating {
+        width: 8vw
+    }
+    #game-list div.sale {
+        width: 14vw;
+        text-align: left;
+    }
+    #game-list div.ucs {
+        width: 8vw;
+        padding-right: 15px;
+    }
 }
 
-#game-list .date,
-#game-list .day {
-  margin-bottom: .4em;
-  font-weight: bold;
-}
-
-#game-list .game {
-  line-height: 1.5em;
-  background: #eee;
-  width: 90vw;
-  margin-bottom: 1px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-
-#game-list .unknown {
-  color: #999;
-}
-#game-list .no {
-  color: #999;
-}
-
-#game-list .game div {
-  display: inline-block;
-  width: 100px;
-}
-
-#game-list div.time{
-  width: 30vw;
-  text-align: left; 
-}
-#game-list div.developer {
-  width: 20vw;
-  text-align: left; 
-}
-#game-list div.rating {
-  width: 5vw
-}
-#game-list div.sale {
-  width: 10vw;
-  text-align: left; 
-}
-#game-list div.ucs {
-  width: 10vw;
-  padding-right: 15px;
+@media screen and (max-width: 800px) {
+    #game-list {
+        min-height: 700px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #game-list .date,
+    #game-list .day {
+        margin-bottom: .4em;
+        font-weight: bold;
+    }
+    #game-list .game {
+        line-height: 1.5em;
+        background: #eee;
+        width: 90vw;
+        margin-bottom: 1px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #game-list .unknown {
+        color: #999;
+    }
+    #game-list .no {
+        color: #999;
+    }
+    #game-list .game div {
+        display: inline-block;
+        width: 100px;
+    }
+    #game-list div.time {
+        width: 30vw;
+        text-align: left;
+    }
+    #game-list div.developer {
+        width: 30vw;
+        text-align: left;
+    }
+    #game-list div.rating {
+        width: 8vw
+    }
+    #game-list div.sale {
+        width: 14vw;
+        text-align: left;
+    }
+    #game-list div.ucs {
+        width: 8vw;
+        padding-right: 15px;
+    }
 }
 
 #game-list .worst {
-  color: #FF8240;
-}
-#game-list .best {
-  color: #35D4A4;
+    color: #FF8240;
 }
 
-aside {
-  position: absolute;
-  left: 50vw;
-  font-weight: bold;
-  width: 50vw;
+#game-list .best {
+    color: #35D4A4;
 }
