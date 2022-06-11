@@ -20,7 +20,7 @@
     <!-- Custom styles -->
     <link rel="stylesheet" href="../data/assets/css/style.css">
     <link rel="stylesheet" href="crossfilter/crf.css">
-    <link rel="stylesheet" href="chart/chr.css">
+    <link rel="stylesheet" href="chart/chrs.css">
 
     <!--[if lt IE 9]> <script src="assets/js/html5shiv.js"></script> <![endif]-->
 </head>
@@ -74,7 +74,7 @@
                 <!-- Article main content -->
                 <article class="col-sm-8 maincontent">
                     <header class="page-header">
-                        <h1 class="page-title">Lorem ipsum dolor sit amet, consectetur.</h1>
+                        <h1 class="page-title">Videogames sales stats (1984-2019)</h1>
                     </header>
 
                     <p>
@@ -90,10 +90,13 @@
                         </div>
                     </p>
 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil
-                        nesciunt unde veniam magnam repudiandae sapiente.</p>
-                    <h3>Necessitatibus</h3>
-                    <p>Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore</p>
+                    <p>The bubble chart above shows the distribution of games by platform. Color represents one of five platform options: PC, Console, Handheld Console, Mobile, or Web Service. The size of the bubble is determined by the number of games released
+                        on that platform.</p>
+                    <h3>Crossfilter chart</h3>
+                    <p>Below is a customizable module for displaying games by several filters: year, user rating and critic rating, number of sales in millions. Each of the histograms is clickable and changes the output depending on the settings. In the
+                        output field, priority is given to the most recent games.</p>
+
+                    <blockquote>For part of the user and critic ratings, the data is generated considering the current distribution to fill in the blanks.</blockquote>
 
                     <div id="charts">
                         <div id="hour-chart" class="chart">
@@ -116,17 +119,6 @@
                         <div id="game-list" class="list"></div>
                     </div>
 
-                    <blockquote>Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ration</blockquote>
-                    <p>Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore</p>
-                    <ul>
-                        <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus!</li>
-                        <li>Laboriosam, aliquam totam asperiores nam velit voluptatum non quidem.</li>
-                        <li>Voluptatem, libero quia voluptatum ab modi facere dolore assumenda?</li>
-                        <li>Expedita, officia tenetur doloremque nulla temporibus ab voluptates adipisci.</li>
-                        <li>Nostrum, nesciunt, inventore amet temporibus officia perferendis doloremque nulla.</li>
-                        <li>Dolorum, ex earum maiores perspiciatis modi sequi odit mollitia.</li>
-                    </ul>
-
                 </article>
                 <!-- /Article -->
 
@@ -134,17 +126,18 @@
                 <aside class="col-md-4 sidebar sidebar-left">
 
                     <div class="widget">
-                        <h4>Lorem ipsum dolor sit</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, ratione delectus reiciendis nulla nisi pariatur molestias animi eos repellat? Vel.</p>
+                        <h4>About the page</h4>
+                        <p>This page is a demo of JavaScript dynamic rendering capabilities using the <a href="https://d3js.org/" target="_blank" style="white-space: nowrap">D3 library</a>. Edited <a href="https://www.kaggle.com/datasets/ashaheedq/video-games-sales-2019"
+                                target="_blank">dataset</a> was used for visualization.
+                        </p>
                     </div>
                     <div class="widget">
-                        <h4>Lorem ipsum dolor sit</h4>
+                        <h4>Used libraries</h4>
                         <ul>
-                            <li><a href="">Lorem ipsum </a>dolor sit amet.</li>
-                            <li>Nostrum, dolores labore tempore error.</li>
-                            <li>Qui esse impedit vitae repellat.</li>
-                            <li>Aliquam, laborum corporis molestiae nihil.</li>
-                            <li>Voluptate, labore non adipisci nihil!</li>
+                            <li><a href="http://square.github.io/crossfilter/">Crossfilter </a>D3 based version.</li>
+                            <li>D3v3.js minimized.</li>
+                            <li><a href="https://d3js.org/d3.v6.js">D3v6.js</a> full version.</li>
+                            <li>Custom <a href="https://www.webtips.dev/how-to-make-interactive-bubble-charts-in-d3-js">Bubble chart</a> implementation.</li>
                         </ul>
                     </div>
 
@@ -163,9 +156,9 @@
                 <div class="col-md-3 widget">
                     <h3 class="widget-title">Contact</h3>
                     <div class="widget-body">
-                        <p><a href="callto:#">+234 23 9873237</a><br>
-                            <a href="mailto:#">zer0deck@icloud.com</a><br>
-                            <br> 234 Hidden Pond Road, Ashland City, TN 37015
+                        <p><a href="callto:#">+995 511 144246</a><br>
+                            <a href="mailto:#">contact@zer0deck.ru</a><br>
+                            <br> 20 Davari street, Tbilisi, Georgia
                         </p>
                     </div>
                 </div>
@@ -202,12 +195,7 @@
 
                 <div class="col-md-6 widget">
                     <div class="widget-body">
-                        <p>234 Hidden Pond Road, Ashland City, TN 37015 </p>
-                    </div>
-                </div>
-
-                <div class="col-md-6 widget">
-                    <div class="widget-body">
+                        <p class="text-left">20 Davari street, Tbilisi, Georgia </p>
                         <p class="text-right">
                             Copyright &copy; 2022, Grandilevskii Aleksei (zer0deck) <br> Design: <a href="https://linkedin.com/in/pozhilov" rel="designer">Sergey Pozhilov</a> </p>
                     </div>
